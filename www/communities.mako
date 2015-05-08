@@ -83,11 +83,22 @@
                                     </td>
                                     <td>
                                         <h3>Reproducibility Project: Psychology (RP:P)</h3>
-                                        <p>The RP:P is a collaborative community effort to replicate published psychology experiments from three
+                                        <p>The RP:P was a collaborative community effort to replicate published psychology experiments from three
                                             important journals. Replication teams follow a standard protocol to maximize consistency and quality
                                             across replications, and the accumulated data, materials and workflow are to be open for critical
-                                            review on OSF. The RP:P is coordinated at the Center for Open Science and
-                                            involves volunteer scientists from all over the world.</p>
+                                            review on OSF. One hundred replications were completed, examining 100 effect tests.</p>
+
+                                        <p>
+                                        <b>Results</b>
+                                        <ul>
+                                            <li>Different means of assessment lead to different evaluations of the rate of reproducibility</li>
+                                            <li>Across analysis methods, reproducibility rates were low</li>
+                                            <li>Effect sizes from the original studies' findings were twice the magnitude of the replications'</li>
+                                            <li>Correlational evidence suggests that the likelihood of replication is better predicted by
+                                            the strength of the original study's evidence than characteristics of the researchers involved in either
+                                            the original or replication studies.</li>
+                                        </ul>
+                                        </p>
                                         <a href="https://osf.io/ezcuj/wiki/home/" target="_blank" class="btn blue">
                                             <i class="fa fa-search"></i> Learn more
                                         </a>
@@ -119,12 +130,12 @@
                                         were examined in 36 independent samples to examine variability in replicability across sample and setting.
                                         <p>
                                             <b>Results</b>
-                                            <uo>
+                                            <ul>
                                                 <li>Variations in sample and setting had little impact on observed effect magnitudes</li>
                                                 <li>When there was variation in effect magnitude across samples, it occurred in studies with large effects, not studies with small effects</li>
                                                 <li>Replicability was much more dependent on the effect of study rather than the sample or setting in which it was studied</li>
                                                 <li>Replicability held even across lab-web and across nations</li>
-                                                <li>Two effects in a subdomain with substantial debate about reproducibility (flag and currency priming) showed no evidence of an effect in individual samples or in the aggregate.</li> </uo> </p>
+                                                <li>Two effects in a subdomain with substantial debate about reproducibility (flag and currency priming) showed no evidence of an effect in individual samples or in the aggregate.</li> </ul> </p>
                                         </p>
                                         <a href="https://osf.io/wx7ck/wiki/home/" target="_blank" class="btn blue">
                                             <i class="fa fa-search"></i> Learn more

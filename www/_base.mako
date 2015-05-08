@@ -145,26 +145,40 @@ ${self.body()}
     <div class="container">
         <div class="row">
             <div class="col-md-4 col-sm-4 space-mobile">
+                <!-- BEGIN RPP -->
+                <div class="margin-bottom-40">
+                <h2>Reproducibility Project: Psychology</h2>
+                <p>The Center for Open Science is proud to announce the conclusion of the Reproducibility Project: Psychology.
+                The research endeavor, funded and organized by COS, has published its findings in <em>Science</em>.
+                To see the open dataset and learn more about the results of the 100 replications that were undertaken,
+                visit the <a href="https://osf.io/ezcuj">project page on the Open Science Framework</a>.</p>
+                    </div>
+                <!-- END RPP -->
+
+
                 <!-- BEGIN ABOUT -->
                 <h2>About</h2>
-                <p class="margin-bottom-30">The Center for Open Science fosters openness, integrity, and reproducibility of scientific research.</p>
+                <p>The Center for Open Science fosters openness, integrity, and reproducibility of scientific research.</p>
                 <p><a href="https://github.com/CenterForOpenScience/centerforopenscience.org/blob/master/TERMS_OF_USE.md">Terms</a>&nbsp;|&nbsp;<a href="https://github.com/CenterForOpenScience/centerforopenscience.org/blob/master/PRIVACY_POLICY.md">Privacy</a></p> 
                 <div class="clearfix"></div>
                 <!-- END ABOUT -->
 
-                <!-- Begin Map -->
-                <div class="row" id="footer-map">
-                    <iframe width="100%" height="240" frameborder="0" scrolling="no" src="https://maps.google.com/maps/ms?msa=0&amp;msid=212077150860196517022.0004eb13abe27b89316db&amp;ie=UTF8&amp;t=m&amp;ll=38.038628,-78.481178&amp;spn=0.04056,0.120163&amp;z=12&amp;output=embed"></iframe>
-                    <br /><small>View <a href="https://maps.google.com/maps/ms?msa=0&amp;msid=212077150860196517022.0004eb13abe27b89316db&amp;ie=UTF8&amp;t=m&amp;ll=38.038628,-78.481178&amp;spn=0.04056,0.120163&amp;z=12&amp;source=embed">
-                    210 Ridge McIntire Rd</a> in a larger map</small>
-                </div>
-                <!-- End Map -->
+
+
+
+##                <!-- Begin Map -->
+##                <div class="row" id="footer-map">
+##                    <iframe width="100%" height="240" frameborder="0" scrolling="no" src="https://maps.google.com/maps/ms?msa=0&amp;msid=212077150860196517022.0004eb13abe27b89316db&amp;ie=UTF8&amp;t=m&amp;ll=38.038628,-78.481178&amp;spn=0.04056,0.120163&amp;z=12&amp;output=embed"></iframe>
+##                    <br /><small>View <a href="https://maps.google.com/maps/ms?msa=0&amp;msid=212077150860196517022.0004eb13abe27b89316db&amp;ie=UTF8&amp;t=m&amp;ll=38.038628,-78.481178&amp;spn=0.04056,0.120163&amp;z=12&amp;source=embed">
+##                    210 Ridge McIntire Rd</a> in a larger map</small>
+##                </div>
+##                <!-- End Map -->
             </div>
 
             <div class="col-md-4 col-sm-4 space-mobile">
                 <!-- BEGIN CONTACTS -->
                 <h2>Contact Us</h2>
-                <address class="margin-bottom-40">
+                <address>
                     Center for Open Science<br />
                     210 Ridge McIntire Road<br />
                     Suite 500<br />
@@ -172,7 +186,7 @@ ${self.body()}
                     Email: <a href="mailto:contact@cos.io">contact@cos.io</a>
                 </address>
                 <!--BEGIN SOCIAL LINKS -->
-                <div class="row">
+                <div class="row margin-bottom-40">
                     <ul class="social-footer">
                         <li><a href="https://www.facebook.com/OpenScienceFramework"><i class="fa fa-facebook"></i></a></li>
                         <li><a href="https://plus.google.com/103557785986281627994/posts"><i class="fa fa-google-plus"></i></a></li>

@@ -590,10 +590,10 @@
 <p>Check out our <a href="https://github.com/CenterForOpenScience/Employee-Manual">Employee Manual</a> and <a href="https://github.com/CenterForOpenScience/Policies-and-Procedures">Policies and Procedures</a> for more information.</p>
 
 <h3><br><strong>What we do</strong></h3><br><br>
-<div style="text-align:center"><iframe width="750" height="500" src="https://www.youtube.com/embed/LJDOr5LIB38" frameborder="0" allowfullscreen></iframe></div>
 
-<table><tr><td width="14%"></td><td width="72%"><p><strong>We work on the cutting edge of open source software. We are mission driven </strong>-- increasing openness and reproducibility in scientific research by building tools, forming community projects, and conducting open, crowdsourced research. We are facilitating positive changes to the scientific culture and reward structure. Read an <a href="http://www.washingtonpost.com/national/health-science/the-new-scientific-revolution-reproducibility-at-last/2015/01/27/ed5f2076-9546-11e4-927a-4fa2638cd1b0_story.html" target="_blank">article in the Washington Post</a> about us!</p></td><td width="14%"></td></tr></table> 
-<br>
+<div class="row col-md-12" style="margin-top:40px; margin-bottom:40px;">
+<p><strong>We work on the cutting edge of open source software. We are mission driven </strong>-- increasing openness and reproducibility in scientific research by building tools, forming community projects, and conducting open, crowdsourced research. We are facilitating positive changes to the scientific culture and reward structure. Read an <a href="http://www.washingtonpost.com/national/health-science/the-new-scientific-revolution-reproducibility-at-last/2015/01/27/ed5f2076-9546-11e4-927a-4fa2638cd1b0_story.html" target="_blank">article in the Washington Post</a> about us!</p>
+</div>
 
 <div class="row">
     <div class="whatWeDo">
@@ -657,13 +657,17 @@
     </div>
 </div>
 
-
-<div id = "location"></div>
-<h3><strong>Where we live</strong></h3>
-<p>From hikes and rides atop the peaks of the Blue Ridge Mountains, to navigating the taps of the BrewRidge Trail, Charlottesville boasts both urban culture and rural adventure. The pedestrian mall downtown offers local shopping, a range of restaurants from French fine dining to sushi rolls to take-away crepes, weekend farmer’s markets, and a music scene to suit tastes for both jazz piano and garage rock.</p>
-<p>Steeped with history, Charlottesville and the surrounding area offers many landmarks of its own. To branch out beyond the local without leaving the city, however, there are museums like the Kluge-Ruhe Aboriginal Art Museum and the Special Collections Library at UVA. And, if you want to get out of town, DC is just two hours away and the state capital, Richmond, is a mere one-hour drive.</p>
-<p>See why the <a href="http://travel.nytimes.com/2008/10/26/travel/26hours.html?pagewanted=all">New York Times loves Charlottesville!</a> Read this <a href="http://www.theguardian.com/world/2014/jul/27/happiness-place-called-charlottesville-virginia">article in The Guardian</a> about Charlottesville's great community. Or, check out the <a href="http://www.c-ville.com/events/">local events calendar.</a></p>
+<div class="row col-md-12">
+<div class="col-md-6 col-sm-12" id="location">
+    <h3><strong>Where we live</strong></h3>
+    <p>From hikes and rides atop the peaks of the Blue Ridge Mountains, to navigating the taps of the BrewRidge Trail, Charlottesville boasts both urban culture and rural adventure. The pedestrian mall downtown offers local shopping, a range of restaurants from French fine dining to sushi rolls to take-away crepes, weekend farmer’s markets, and a music scene to suit tastes for both jazz piano and garage rock.</p>
+    <p>Steeped with history, Charlottesville and the surrounding area offers many landmarks of its own. To branch out beyond the local without leaving the city, however, there are museums like the Kluge-Ruhe Aboriginal Art Museum and the Special Collections Library at UVA. And, if you want to get out of town, DC is just two hours away and the state capital, Richmond, is a mere one-hour drive.</p>
+    <p>See why the <a href="http://travel.nytimes.com/2008/10/26/travel/26hours.html?pagewanted=all">New York Times loves Charlottesville!</a> Read this <a href="http://www.theguardian.com/world/2014/jul/27/happiness-place-called-charlottesville-virginia">article in The Guardian</a> about Charlottesville's great community. Or, check out the <a href="http://www.c-ville.com/events/">local events calendar.</a></p>
 </div>
+<div class="col-md-6 col-sm-12">
+<div style="text-align:center"><iframe width="750" height="500" src="https://www.youtube.com/embed/LJDOr5LIB38" frameborder="0" allowfullscreen></iframe></div>
+</div>
+
 <div class="spacer"></div>
 <!-- END INFO BLOCK -->
 
