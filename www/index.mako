@@ -16,10 +16,13 @@
 <div class="container"> 
     <ul class="bxslider">
         <li>
-            <div class="row tagline animated fadeIb"> 
-                <div class="hp-slide-head col-xs-6"> <h1> We foster the<br/> <strong>openness</strong> <br/> <strong>integrity
-                </strong> <br/> and <strong>reproducibility</strong> <br/> of scientific research </h1> </div>
-                <div class="col-xs-6 main-cos-logo"> <img src="static/img/cos_center_logo_small.png" /></div>
+            <div class="row tagline">
+                <div class="col-md-12 main-cos-logo"> <img src="static/img/cos_center_logo_small.png" /></div>
+                <div class="hp-slide-head col-md-12">
+                    <h1> We foster the <strong>openness</strong>, <strong>integrity</strong>, and
+                        <strong>reproducibility</strong> of scientific research </h1>
+                </div>
+
             </div> 
             
 
@@ -35,13 +38,21 @@
     <div class="row margin-bottom-10">
         <!-- BEGIN INFO BLOCK -->
         <div class="lead col-xs-12">
-            <p>COS is a non-profit technology company providing free and open services to increase inclusivity and transparency of research. COS supports shifting incentives and practices to align more closely with scientific values.</p>
+            <p style="text-align: center">COS is a non-profit technology company providing free and open services to increase inclusivity and transparency of research. COS supports shifting incentives and practices to align more closely with scientific values.</p>
         </div>
         <!-- END INFO BLOCK -->
     </div>
     <!-- END ABOUT INFO -->
 
-    <!-- END CONTAINER -->
+  <div class="row quote-v1 margin-bottom-30">
+          <div class="col-md-9">
+            <span>Our flagship metascience project, the Reproducibility Project: Psychology, has concluded.</span>
+          </div>
+          <div class="col-md-3 text-right">
+            <a class="btn-transparent" href="http://www.keenthemes.com/preview/index.php?theme=metronic_admin" target="_blank">
+               Read the Results</a>
+          </div>
+        </div>
 
     <div class="clearfix"></div>
 
