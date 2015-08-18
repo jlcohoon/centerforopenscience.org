@@ -70,6 +70,13 @@
                 </tr>
                 <tr class="spacer"></tr>
                 <tr>
+                    <td class="sponsor-center"><a href="https://okfn.org/"><img src="../static/img/icons/openknowledge.jpg" alt="OKFN"></a></td>
+                    <td><span class="med-font"><strong>Open Knowledge</strong></span><br>
+                        Open Knowledge has partnered with COS on the development of <a href="http://okfnlabs.org/opentrials/">Open Trials</a>, an online database of the world's clinical research trials. This project will utilize the <a href="https://osf.io">Open Science Framework</a> infrastructure to advance transparency and public access to clinical research trials information.
+                    </td>
+                </tr>
+                <tr class="spacer"></tr>
+                <tr>
                     <td class="sponsor-center"><a href="http://www.prometheusresearch.com/"><img src="../static/img/icons/prometheus.jpg" alt="prometheus_research"></a></td>
                     <td><span class="med-font"><strong>Prometheus Research</strong></span><br>
                        Prometheus Research has partnered with COS on use of the OSF and its application programming interface (API), to connect with their open source, integrated <a href='http://www.rexdb.org/'>Research Exchange Database</a> to create a library of Electronic Data Capture (EDC) instruments. This will enable OSF users to easily utilize EDC instruments within their OSF projects</a>.
@@ -92,6 +99,8 @@
                        Time-sharing Experiments for the Social Sciences (TESS) is an NSF-funded project that supports free data collections on representative samples of U.S. adults for experimental research. COS and TESS have partnered to host TESS's entire historical and future data catalog of more than 300 experiments on the Open Science Framework.
                     </td>
                 </tr>
+            <p class="lead">At times, COS makes grants to individuals and organizations in support of open science initiatives.  For COS grants of $50,000 or less, no overhead costs are permitted.  For COS grants larger than $50,000, overhead costs may not exceed 15% of direct project costs.</p>
+            <br>
             </table>
         </div>
         <!-- END OUR PARTNERS -->

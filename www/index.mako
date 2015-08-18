@@ -38,7 +38,7 @@
     <div class="row margin-bottom-10">
         <!-- BEGIN INFO BLOCK -->
         <div class="lead col-xs-12">
-            <p style="text-align: center">COS is a non-profit technology company providing free and open services to increase inclusivity and transparency of research. COS supports shifting incentives and practices to align more closely with scientific values.</p>
+            <p style="text-align: center">The Center for Open Science is a non-profit technology company providing free and open services to increase inclusivity and transparency of research. COS supports shifting incentives and practices to align more closely with scientific values.</p>
         </div>
         <!-- END INFO BLOCK -->
     </div>
@@ -46,11 +46,11 @@
 
   <div class="row quote-v1 margin-bottom-30">
           <div class="col-md-9">
-            <span>Our flagship metascience project, the Reproducibility Project: Psychology, has concluded.</span>
+            <span>Results from metascience initiative the Reproducibility Project: Psychology are available.</span>
           </div>
           <div class="col-md-3 text-right">
-            <a class="btn-transparent" href="http://www.keenthemes.com/preview/index.php?theme=metronic_admin" target="_blank">
-               Read the Results</a>
+            <a class="btn-transparent" href="" target="_blank">
+               Read the Report</a>
           </div>
         </div>
 

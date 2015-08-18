@@ -152,15 +152,12 @@
                      </dd>
                      <dt>Benefits</dt>
                      <dd>
-                         <p>You’ll be able to quickly try a lot of what Charlottesville has to offer as the Center has prime office space downtown and caters two staff lunches per week. We have dedicated parking, 27'' monitors in an open workspace with floor-to-ceiling windows (private offices are not assigned, but used as-needed), a stocked kitchen, and white-board walls. See more about <a href="#benefits">amenities</a>.</p>
+                         <p>You’ll be able to quickly try a lot of what Charlottesville has to offer as the Center has prime office space downtown and caters two staff lunches per week. We have 27'' monitors in an open workspace with floor-to-ceiling windows (private offices are not assigned, but used as-needed), a stocked kitchen, and white-board walls. See more about <a href="#benefits">amenities</a>.</p>
                          <p>COS interns who have to relocate to Charlottesville will be eligible for reimbursement up to $250 for pre-approved travel costs (including rental car, taxi, plane, train, hotel, or mileage if using a personal vehicle). COS will assist interns with locating temporary housing in the area as well. Please refer to this relocation document for helpful tips on moving to Charlottesville for the summer.</p>
                     </dd>
                     <dt>Applying</dt><dd>
                     <p>The Center for Open Science is an equal opportunity employer and strongly encourages applications from members of groups underrepresented in science and technology industries.</p>
                     <p>Please send a resume and cover letter explaining your background and interest in the position <a href="http://www.jobscore.com/jobs/centerforopenscience" target="_blank">here</a>.  Questions about the position and COS are welcome and can be directed to <a href="mailto:jobs@cos.io">jobs@cos.io</a>. You can also see more on <a href="https://github.com/centerforopenscience">GitHub</a>.</p></dd>
-                    <dt>PyLadies Partnership</dt><dd>
-                    <p>In support of promoting diversity in the tech community, COS has partnered with <a href="http://www.pyladies.com/">PyLadies</a> to dedicate one 12-week Summer 2015 Developer Internship seat to a PyLady member.  In line with other COS internships, this is a paid internship and is open to US citizens.  Applicants for this specific internship seat will be asked for a reference letter from a PyLadies chapter organizer.  In addition to the internship, the selected intern for this seat will be invited to travel with the COS team to PyCon 2015 in Montreal, with all expenses covered.</p>
-                </dd>
                 </dl>
             </div>
         </div>
@@ -388,16 +385,16 @@
 ##        </div>
 ##    </div>
 ##</div>
-## <div id="QATestEngineerIntern" class="panel-group">
-##     <div class="panel panel-info">
-##         <div class="panel-heading" class="accordion-toggle" data-toggle="collapse" href="#QATestEngineerIntern_heading">
-##             <h4 class="panel-title">
-##                 <span class="chevron"> <span class="glyphicon glyphicon-chevron-right"></span> </span>
-##                 <a  data-parent="#QATestEngineerIntern" >
-##                     QC/QA/Test Engineer Intern
-##                 </a>
-##             </h4>
-##         </div>
+##<div id="QATestEngineerIntern" class="panel-group">
+##    <div class="panel panel-info">
+##        <div class="panel-heading" class="accordion-toggle" data-toggle="collapse" href="#QATestEngineerIntern_heading">
+##            <h4 class="panel-title">
+##                <span class="chevron"> <span class="glyphicon glyphicon-chevron-right"></span> </span>
+##                <a  data-parent="#QATestEngineerIntern" >
+##                    QC/QA/Test Engineer Intern
+##                </a>
+##            </h4>
+##        </div>
 ##         <div id="QATestEngineerIntern" class="panel-collapse collapse">
 ##             <div class="panel-body">
 ##                 <dl class="dl-horizontal">
@@ -412,7 +409,7 @@
 ##                     <dt>Skills</dt>
 ##                     <dd>
 ##                         <p>Educational background in either computer science, engineering, or the sciences, ideally also with knowledge of scientific research practices and workflows; Strong collaborative personality and ability to work across diverse teams; Commitment to delivering quality products; Action-orientation; Developing and maintaining processes with the team; Establishing and meeting timelines and milestones; Organization; Attention to detail.</p>
-
+##
 ##                         <p>We are flexible on the exact work schedule, but expect between 10-20 hours per week on-site.</p>
 ##                     </dd>
 ##                     <dt>Location</dt>
@@ -430,8 +427,8 @@
 ##                     </dd>
 ##                 </dl>
 ##             </div>
-##         </div>
-##     </div>
+##             </div>
+##    </div>
 ## </div>
 <div id="SeniorDeveloper" class="panel-group">
     <div class="panel panel-info">
@@ -490,33 +487,135 @@
         </div>
     </div>
 </div>
-<div id="StatsConsultant" class="panel-group">
+## <div id="StatsConsultant" class="panel-group">
+##   <div class="panel panel-info">
+##        <div class="panel-heading">
+##            <h4 class="panel-title" class="accordion-toggle" data-toggle="collapse" href="#StatsConsultant_heading">
+##                <span class="chevron"> <span class="glyphicon glyphicon-chevron-right"></span> </span>
+##
+##                <a data-parent="#StatsConsultant" >
+##                    Statistical and Methodological Consultant
+##                </a>
+##            </h4>
+##        </div>
+##        <div id="StatsConsultant" class="panel-collapse collapse">
+##            <div class="panel-body">
+##                <dl class="dl-horizontal">
+##                    <dt>Background</dt>
+##                    <dd>
+##                        <p>The Center for Open Science (COS) develops tools to support the scientific workflow (i.e., Open Science Framework), fosters community standards and efforts for open practices, and conducts metascience research - science on scientific practices.  We will hire two individuals with substantial training in quantitative methods, research methodology, and reproducible research practices to be a consulting team to train, support, and foster open, reproducible research practices across the sciences.</p>
+##                        <p>Statistical and Methodological Consultants will contribute to the COS mission, particularly the community and metascience efforts, and help facilitate open, reproducible practices across the scientific community. Statistical and Methodological Consultants must have extremely strong quantitative, methodological, social, and organizational skills. Depending on training and expertise, part of one or both of these positions will be devoted to support activities in the White House’s Office of Science and Technology Policy related to reproducible research practices.</p>
+##                    </dd>
+##                    <dt>Responsibilities</dt>
+##                    <dd>
+##                        <p>The Statistical and Methodological Consultants will provide active, hands-on consultation for reproducible best practices in data analysis and research design. This includes short-term visits to universities, departments, and laboratories; lectures and training at conferences; virtual consulting and training through emails and webinars; and development and maintenance of education materials and practical guides for distribution. Consulting services will include open science, reproducibility practices, data analysis, and research methodology.</p>
+##                        <p>The Statistical and Methodological Consultants will assist in forming and maintaining COS’s  best practices for reproducible research, and collaborate with the whole COS team in making its infrastructure and products accessible, useful, and applicable to scientists across research disciplines.</p>
+##                    </dd>
+##                    <dt>Skills</dt>
+##                    <dd>
+##                        <p>Master’s degree in statistics or a substantive scientific discipline is required, PhD is preferred; Substantial training and experience in scientific research, quantitative methods, and reproducible research practices; Skills in quantitative data analysis and free statistical programming software commonly used by scientists (e.g. R or Python) are essential. Very strong written and verbal  communication skills; Service-oriented mindset; Comfortable teaching content to researchers from many different substantive backgrounds and at different career levels; Team-oriented; Very strong work ethic; Exceptional organization, time-management, and attention to detail.</p>
+##                    </dd>
+##                    <dt>Location</dt>
+##                    <dd>
+##                        <p>The Center for Open Science is <a href="#location">located in Charlottesville, Virginia</a>.</p>
+##                    </dd>
+##                    <dt>Benefits</dt>
+##                    <dd>
+##                        <p>Salary range is $60,000 to $70,000; commensurate with experience.</p>
+##                        <p>The Center for Open Science offers full time employees 401(k), health/dental/vision insurance, and 15 days of paid time off, in addition to a modern office space and <a href="#benefits">other amenities</a>.</p>
+##                    </dd>
+##                    <dt>Travel</dt>
+##                    <dd>
+##                        <p>Travel will range from 25-50% time.</p>
+##                    </dd>
+##                    <dt>Applying</dt>
+##                    <dd>
+##                        <p>The Center for Open Science is an equal opportunity employer and strongly encourages applications from members of groups underrepresented in science and technology industries.</p>
+##                        <p>Please send a resume and cover letter explaining your background and interest in the position <a href="http://www.jobscore.com/jobs/centerforopenscience" target="_blank">here</a>.  Questions about the position and COS are welcome and can be directed to <a href="mailto:jobs@cos.io">jobs@cos.io</a>.</p>
+##                    </dd>
+##                </dl>
+##            </div>
+##        </div>
+##    </div>
+##</div>
+## <div id="ReproducibleResearchEvangelist" class="panel-group">
+##     <div class="panel panel-info">
+##         <div class="panel-heading">
+##             <h4 class="panel-title" class="accordion-toggle" data-toggle="collapse" href="#StatsConsultant_heading">
+##                 <span class="chevron"> <span class="glyphicon glyphicon-chevron-right"></span> </span>
+
+##                 <a data-parent="#ReproducibleResearchEvangelist" >
+##                     Reproducible Research Evangelist
+##                 </a>
+##             </h4>
+##         </div>
+##         <div id="ReproducibleResearchEvangelist" class="panel-collapse collapse">
+##             <div class="panel-body">
+##                 <dl class="dl-horizontal">
+##                     <dt>Background</dt>
+##                     <dd>
+##                         <p>The Center for Open Science (COS) develops tools to support the scientific workflow (i.e., Open Science Framework), fosters community standards and efforts for open practices, and conducts metascience research - science on scientific practices.  We will hire two individuals with substantial training in quantitative methods, research methodology, and reproducible research practices to be a consulting team to train, support, and foster open, reproducible research practices across the sciences.  The reproducibility evangelist will facilitate open, reproducible practices across the scientific community.  Reproducibility consultants must have strong quantitative, methodological, social, and organizational skills.  This position is appropriate for recent or past PhD’s with strong methodological and quantitative training in their substantive discipline.  </p>
+                
+##                     </dd>
+##                     <dt>Responsibilities</dt>
+##                     <dd>
+##                         <p>The reproducible research evangelist will provide active, hands-on consultation for reproducible best practices in tools, data analysis, and research design.  This includes short-term visits to universities, departments, and laboratories; lectures and training at conferences; virtual consulting and training; and development and maintenance of education materials and practical guides for distribution.  Consulting services will include open science, reproducibility practices, data analysis, and research methodology.  Reproducibility consultants will assist in forming and maintaining COS’s best practices for reproducible research, and collaborate with the whole COS team in making its infrastructure and products accessible, useful, and applicable to scientists across research disciplines. </p>
+                    
+##                     </dd>
+##                     <dt>Skills</dt>
+##                     <dd>
+##                         <p>Passion for reproducible research and open tools; Substantial training and experience in scientific research and quantitative methods; Extremely high social and communication skills; Exceptional organization and attention to detail; Service-oriented mindset; Diverse experience with technologies for data collection, analysis, and visualization; Ability to use web communication and documentation software effectively; Team-oriented; Very strong work ethic; Self-starter and industrious; Adaptivity to rapidly changing demands in a high performance workplace; Very strong writing skills.  Skills in programming and web development are a plus.</p>
+##                     </dd>
+##                     <dt>Location</dt>
+##                     <dd>
+##                         <p>The Center for Open Science is <a href="#location">located in Charlottesville, Virginia</a>.</p>
+##                     </dd>
+##                     <dt>Benefits</dt>
+##                    <dd>
+                     
+##                         <p>The Center for Open Science offers full time employees 401(k), health/dental/vision insurance, and 15 days of paid time off, in addition to a modern office space and <a href="#benefits">other amenities</a>.</p>
+##                     </dd>
+##                     <dt>Notes</dt>
+##                     <dd>
+##                         <p>The Center for Open Science is an equal opportunity employer and strongly encourages applications from members of groups underrepresented in science and technology industries.  The Center for Open Science (COS) is a non-profit organization based in Charlottesville, Virginia dedicated to improving the alignment between scientific values and scientific practices.  As a tech start-up, the COS team moves quickly, identifies problems and creates solutions, encourages risk-taking, blends science and technology, is highly collaborative, is high energy, and is dedicated to openness.  COS has three primary activities: (1) infrastructure development to support the scientific workflow (<a href="http://osf.io/">http://osf.io</a>) - documentation, archiving, sharing, and registration - and connect with other open technologies, (2) community building among open-source developers, open science researchers, and the broader scientific community, and (3) metascience, research on scientific practices.  COS is supported by NIH, the Laura and John Arnold Foundation, John Templeton Foundation, Alfred P. Sloan Foundation, the Hewlett Foundation, and an anonymous donor.  Get more information about COS at its <a href="https://cos.io">website</a>, and in papers articulating a vision for "Scientific Utopia” for <a href="http://www.tandfonline.com/doi/abs/10.1080/1047840X.2012.692215#.UgK9bGTJHy0">scientific communication</a> and <a href="http://pps.sagepub.com/content/7/6/615.full">scientific practices</a>.</p>
+##                     </dd>
+##                     <dt>Applying</dt>
+##                     <dd>
+                        
+##                         <p>Please send a resume and cover letter explaining your background and interest in the position <a href="http://www.jobscore.com/jobs/centerforopenscience" target="_blank">here</a>.  Questions about the position and COS are welcome and can be directed to <a href="mailto:jobs@cos.io">jobs@cos.io</a>.</p>
+##                     </dd>
+##                 </dl>
+##             </div>
+##         </div>
+##     </div>
+## </div>
+<div id="ResearchScientist" class="panel-group">
     <div class="panel panel-info">
         <div class="panel-heading">
-            <h4 class="panel-title" class="accordion-toggle" data-toggle="collapse" href="#StatsConsultant_heading">
+            <h4 class="panel-title" class="accordion-toggle" data-toggle="collapse" href="#ResearchScientist_heading">
                 <span class="chevron"> <span class="glyphicon glyphicon-chevron-right"></span> </span>
 
-                <a data-parent="#StatsConsultant" >
-                    Statistical and Methodological Consultant
+                <a data-parent="#ResearchScientist" >
+                    Research Scientist
                 </a>
             </h4>
         </div>
-        <div id="StatsConsultant" class="panel-collapse collapse">
+        <div id="ResearchScientist" class="panel-collapse collapse">
             <div class="panel-body">
                 <dl class="dl-horizontal">
                     <dt>Background</dt>
                     <dd>
-                        <p>The Center for Open Science (COS) develops tools to support the scientific workflow (i.e., Open Science Framework), fosters community standards and efforts for open practices, and conducts metascience research - science on scientific practices.  We will hire two individuals with substantial training in quantitative methods, research methodology, and reproducible research practices to be a consulting team to train, support, and foster open, reproducible research practices across the sciences.</p>
-                        <p>Statistical and Methodological Consultants will contribute to the COS mission, particularly the community and metascience efforts, and help facilitate open, reproducible practices across the scientific community. Statistical and Methodological Consultants must have extremely strong quantitative, methodological, social, and organizational skills. Depending on training and expertise, part of one or both of these positions will be devoted to support activities in the White House’s Office of Science and Technology Policy related to reproducible research practices.</p>
+                        <p>The Center for Open Science (COS) develops tools to support the scientific workflow (i.e., <a href="http://osf.io/">Open Science Framework</a>), fosters community standards and efforts for open practices, and conducts metascience research - science on scientific practices.  We will hire one individual for a one-year contract position with training in biomedical research to assist with the <a href="https://osf.io/e81xl/wiki/home/">Reproducibility Project: Cancer Biology</a>.  The position will be involved in managing the replication projects with a focus on performing data analysis and writing reports of the experimental results.  Candidates must have strong writing, organization, and statistical analysis skills.  This position is appropriate for recent or past PhDs with strong methodological and quantitative training in the biomedical sciences. </p>
+                
                     </dd>
                     <dt>Responsibilities</dt>
                     <dd>
-                        <p>The Statistical and Methodological Consultants will provide active, hands-on consultation for reproducible best practices in data analysis and research design. This includes short-term visits to universities, departments, and laboratories; lectures and training at conferences; virtual consulting and training through emails and webinars; and development and maintenance of education materials and practical guides for distribution. Consulting services will include open science, reproducibility practices, data analysis, and research methodology.</p>
-                        <p>The Statistical and Methodological Consultants will assist in forming and maintaining COS’s  best practices for reproducible research, and collaborate with the whole COS team in making its infrastructure and products accessible, useful, and applicable to scientists across research disciplines.</p>
+                        <p>The position will provide support on the management of the replication projects for this large-scale project.  This includes performing the statistical analysis for each experiment that was conducted, writing the results and discussion of the Replication Studies, and organizing the content associated with the experiments (raw data, methods, materials, etc) on the project page on the <a href="https://osf.io/p7ayb/wiki/home/">Open Science Framework</a>.  The selected candidate will assist in demonstrating COS’s best practices for reproducible research by collaborating with the COS team and our partners on the project, <a href="https://www.scienceexchange.com">Science Exchange</a>, to ensure the experimental process and results are transparent and accessible to the research community. </p>
+                    
                     </dd>
                     <dt>Skills</dt>
                     <dd>
-                        <p>Master’s degree in statistics or a substantive scientific discipline is required, PhD is preferred; Substantial training and experience in scientific research, quantitative methods, and reproducible research practices; Skills in quantitative data analysis and free statistical programming software commonly used by scientists (e.g. R or Python) are essential. Very strong written and verbal  communication skills; Service-oriented mindset; Comfortable teaching content to researchers from many different substantive backgrounds and at different career levels; Team-oriented; Very strong work ethic; Exceptional organization, time-management, and attention to detail.</p>
+                        <p>Substantive scientific training and experience in biomedical research methodology is required, PhD is preferred.  Skills in quantitative data analysis and statistical programming software (e.g. R or Python) are essential.  Very strong written communication skills; team-oriented, very strong work ethic; exceptional organization, time-management, and attention to detail; passion for reproducible research and open tools.</p>
                     </dd>
                     <dt>Location</dt>
                     <dd>
@@ -524,17 +623,17 @@
                     </dd>
                     <dt>Benefits</dt>
                     <dd>
-                        <p>Salary range is $60,000 to $70,000; commensurate with experience.</p>
+                     
                         <p>The Center for Open Science offers full time employees 401(k), health/dental/vision insurance, and 15 days of paid time off, in addition to a modern office space and <a href="#benefits">other amenities</a>.</p>
                     </dd>
-                    <dt>Travel</dt>
+                    <dt>Notes</dt>
                     <dd>
-                        <p>Travel will range from 25-50% time.</p>
+                        <p>The Center for Open Science is an equal opportunity employer and strongly encourages applications from members of groups underrepresented in science and technology industries.  The Center for Open Science (COS) is a non-profit organization based in Charlottesville, Virginia dedicated to improving the alignment between scientific values and scientific practices.  As a tech start-up, the COS team moves quickly, identifies problems and creates solutions, encourages risk-taking, blends science and technology, is highly collaborative, is high energy, and is dedicated to openness.  COS is supported by NIH, the Laura and John Arnold Foundation, John Templeton Foundation, Alfred P. Sloan Foundation, the Hewlett Foundation, and an anonymous donor.  Get more information about the Reproducibility Project: Cancer Biology in an <a href="http://elifesciences.org/content/3/e04333">article</a> describing the project and learn more about COS in papers articulating a vision for "Scientific Utopia” for <a href="http://www.tandfonline.com/doi/abs/10.1080/1047840X.2012.692215#.UgK9bGTJHy0">scientific communication</a> and <a href="http://pps.sagepub.com/content/7/6/615.full">scientific practices</a>.</p>
                     </dd>
                     <dt>Applying</dt>
                     <dd>
-                        <p>The Center for Open Science is an equal opportunity employer and strongly encourages applications from members of groups underrepresented in science and technology industries.</p>
-                        <p>Please send a resume and cover letter explaining your background and interest in the position <a href="http://www.jobscore.com/jobs/centerforopenscience" target="_blank">here</a>.  Questions about the position and COS are welcome and can be directed to <a href="mailto:jobs@cos.io">jobs@cos.io</a>.</p>
+                        
+                        <p>Please send a resume and cover letter explaining your background and interest in the position <a href="http://www.jobscore.com/jobs2/centerforopenscience/research-scientist/aRwJIOk-er5z3SiGalkWKP" target="_blank">here</a>.  Questions about the position and COS are welcome and can be directed to <a href="mailto:casey.kugler@cos.io">casey.kugler@cos.io</a>.</p>
                     </dd>
                 </dl>
             </div>
@@ -583,98 +682,94 @@
         </div>
     </div>
 </div>
-
-
 <!--END OPPORTUNITIES -->
 
+<div id="benefits">
 
-<h2 style="margin-top:40px; "><strong>What we do</strong></h2>
-
+<div style="text-align:center" class=" margin-top-40"><iframe width="750" height="500" src="https://www.youtube.com/embed/LJDOr5LIB38" frameborder="0" allowfullscreen></iframe></div>
+<h3><br><strong>What we do</strong></h3><br><br>
 <div class="row col-md-12" style="margin-bottom:40px;">
-<p>We work on the cutting edge of open source software. We are mission driven&mdash;increasing openness and reproducibility
-    in scientific research by <a href="https://osf.io">building tools</a>, forming community projects, and conducting open, crowdsourced research.
-    We are facilitating positive changes to the scientific culture and reward structure. In the summer of 2015, for example,
-    our work was part of a special issue of <a href="">Science</a> that covered issues surrounding the reproducibility of
-    scientific research.
-    Even the  <a href="http://www.washingtonpost.com/national/health-science/the-new-scientific-revolution-reproducibility-at-last/2015/01/27/ed5f2076-9546-11e4-927a-4fa2638cd1b0_story.html" target="_blank">
-    Washington Post</a> is taking note!</p>
-<p>Check out our <a href="https://github.com/CenterForOpenScience/Employee-Manual">Employee Manual</a> and <a href="https://github.com/CenterForOpenScience/Policies-and-Procedures">Policies and Procedures</a> for more information.</p>
+    <p>We work on the cutting edge of open source software. We are mission driven&mdash;increasing openness and reproducibility
+        in scientific research by <a href="https://osf.io">building tools</a>, forming community projects, and conducting open, crowdsourced research.
+        We are facilitating positive changes to the scientific culture and reward structure. In the August of 2015, for example,
+        our work was featured in <a href="">Science</a>, covering issues surrounding the reproducibility of
+        scientific research.
+        The open science movement is growing, <a href="../news/">see who is taking note</a>.</p>
+    <p>Check out our <a href="https://github.com/CenterForOpenScience/Employee-Manual">Employee Manual</a> and <a href="https://github.com/CenterForOpenScience/Policies-and-Procedures">Policies and Procedures</a> for more information.</p>
 </div>
 
-<div class="row">
+
     <div class="whatWeDo">
         <ul class="list-unstyled">
             <div class="row margin-bottom-20">
-            <li class="col-md-3 space-mobile">
-                <a><div class="photoSwitch" style="background-image: url(../static/img/photos/Hover_Photos/collaborate.png);"></div></a>
-                <div>
-                    <center><h3>Collaborate.</h3></center>
-                    <p>The Center places a high value on developing skills and partnerships. <strong>Teamwork</strong>, pair programming, collaboration internally and externally are <strong>daily practice</strong>.</p>
+                <li class="col-md-3 space-mobile">
+                    <a><div class="photoSwitch" style="background-image: url(../static/img/photos/Hover_Photos/collaborate.png);"></div></a>
+                    <div>
+                        <center><h3>Collaborate.</h3></center>
+                        <p>The Center places a high value on developing skills and partnerships. <strong>Teamwork</strong>, pair programming, collaboration internally and externally are <strong>daily practice</strong>.</p>
+                    </div>
+                </li>
+                <li class="col-md-3 space-mobile">
+                    <a><div class="photoSwitch" style="background-image: url(../static/img/photos/Hover_Photos/Food.png);"></div></a>
+                    <div>
+                        <center><h3>Eat well.</h3></center>
+                        <p><strong>Keep your energy up</strong> with your favorite drinks and snacks from the fully stocked kitchen. Enjoy catered lunches from local restaurants twice a week.</p>
+                    </div>
+                </li>
+                <li class="col-md-3 space-mobile">
+                    <a><div class="photoSwitch" style="background-image: url(../static/img/photos/Hover_Photos/GetFit.png);"></div></a>
+                    <div>
+                        <center><h3>Get fit.</h3></center>
+                        <p>All full-time employees receive health, dental, and vision insurance. We promote our own<strong> health and well-being</strong> with stand-up and exercise desks, access to an on-site gym, and the great biking and hiking access in the community.</p>
+                    </div>
+                </li>
+                <li class="col-md-3 space-mobile">
+                    <a><div class="photoSwitch" style="background-image: url(../static/img/photos/Hover_Photos/Comfortable.png);"></div></a>
+                    <div>
+                        <center><h3>Keep comfortable.</h3></center>
+                        <p>We take our work seriously, and work best in a casual environment - casual dress,<strong> bean bag chairs</strong>, high-quality workspaces, and an open, non-hierarchical floor plan.</p>
+                    </div>
+                </li>
                 </div>
-            </li>
-            <li class="col-md-3 space-mobile">
-                <a><div class="photoSwitch" style="background-image: url(../static/img/photos/Hover_Photos/Food.png);"></div></a>
-                <div>
-                    <center><h3>Eat well.</h3></center>
-                    <p><strong>Keep your energy up</strong> with your favorite drinks and snacks from the fully stocked kitchen. Enjoy catered lunches from local restaurants twice a week.</p>
-                </div>
-            </li>
-            <li class="col-md-3 space-mobile">
-                <a><div class="photoSwitch" style="background-image: url(../static/img/photos/Hover_Photos/GetFit.png);"></div></a>
-                <div>
-                    <center><h3>Get fit.</h3></center>
-                    <p>All full-time employees receive health, dental, and vision insurance. We promote our own<strong> health and well-being</strong> with stand-up and exercise desks, access to an on-site gym, and the great biking and hiking access in the community.</p>
-                </div>
-            </li>
-            <li class="col-md-3 space-mobile">
-                <a><div class="photoSwitch" style="background-image: url(../static/img/photos/Hover_Photos/Comfortable.png);"></div></a>
-                <div>
-                    <center><h3>Keep comfortable.</h3></center>
-                    <p>We take our work seriously, and work best in a casual environment - casual dress,<strong> bean bag chairs</strong>, high-quality workspaces, and an open, non-hierarchical floor plan.</p>
-                </div>
-            </li>
+                <div class="row">
+                <li class="col-md-3 space-mobile">
+                    <a><div class="photoSwitch" style="background-image: url(../static/img/photos/Hover_Photos/Computer.png);"></div></a>
+                    <div>
+                        <center><h3>Get a Mac.</h3></center>
+                        <p>All full-time employees receive an <strong>Apple laptop</strong> of their choice and a workstation with 27” screen.</p>
+                    </div>
+                </li>
+                <li class="col-md-3 space-mobile">
+                    <a><div class="photoSwitch" style="background-image: url(../static/img/photos/Hover_Photos/Plan.png);"></div></a>
+                    <div>
+                        <center><h3>Plan for the future.</h3></center>
+                        <p>We’ll help you set up your 401k, and <strong>COS contributes up to 4% matches.</strong></p>
+                    </div>
+                </li>
+                <li class="col-md-3 space-mobile">
+                    <a><div class="photoSwitch" style="background-image: url(../static/img/photos/Hover_Photos/View.jpg);"></div></a>
+                    <div>
+                        <center><h3>Enjoy the view.</h3></center>
+                        <p>The modern and stylish COS offices are located in the <strong>heart of Charlottesville</strong> on the downtown pedestrian mall. Central Virginia and the Shenandoah mountains are right outside!</p>
+                    </div>
+                </li>
             </div>
-            <div class="row">
-            <li class="col-md-3 space-mobile">
-                <a><div class="photoSwitch" style="background-image: url(../static/img/photos/Hover_Photos/Computer.png);"></div></a>
-                <div>
-                    <center><h3>Get a Mac.</h3></center>
-                    <p>All full-time employees receive an <strong>Apple laptop</strong> of their choice and a workstation with 27” screen.</p>
-                </div>
-            </li>
-            <li class="col-md-3 space-mobile">
-                <a><div class="photoSwitch" style="background-image: url(../static/img/photos/Hover_Photos/Plan.png);"></div></a>
-                <div>
-                    <center><h3>Plan for the future.</h3></center>
-                    <p>We’ll help you set up your 401k, and <strong>COS contributes up to 4% matches.</strong></p>
-                </div>
-            </li>
-            <li class="col-md-3 space-mobile">
-                <a><div class="photoSwitch" style="background-image: url(../static/img/photos/Hover_Photos/View.jpg);"></div></a>
-                <div>
-                    <center><h3>Enjoy the view.</h3></center>
-                    <p>The modern and stylish COS offices are located in the <strong>heart of Charlottesville</strong> on the downtown pedestrian mall. Central Virginia and the Shenandoah mountains are right outside!</p>
-                </div>
-            </li>
-                </div>
         </ul>
     </div>
-</div>
+
 
 <div class="row col-md-12">
     <h2><strong>Where we live</strong></h2>
-    <div class="row col-md-6 col-sm-12" id="location">
+    <div id="location">
         <p>From hikes and rides atop the peaks of the Blue Ridge Mountains, to navigating the taps of the BrewRidge Trail, Charlottesville boasts both urban culture and rural adventure. The pedestrian mall downtown offers local shopping, a range of restaurants from French fine dining to sushi rolls to take-away crepes, weekend farmer’s markets, and a music scene to suit tastes for both jazz piano and garage rock.</p>
         <p>Steeped with history, Charlottesville and the surrounding area offers many landmarks of its own. To branch out beyond the local without leaving the city, however, there are museums like the Kluge-Ruhe Aboriginal Art Museum and the Special Collections Library at UVA. And, if you want to get out of town, DC is just two hours away and the state capital, Richmond, is a mere one-hour drive.</p>
         <p>See why the <a href="http://travel.nytimes.com/2008/10/26/travel/26hours.html?pagewanted=all">New York Times loves Charlottesville!</a> Read this <a href="http://www.theguardian.com/world/2014/jul/27/happiness-place-called-charlottesville-virginia">article in The Guardian</a> about Charlottesville's great community. Or, check out the <a href="http://www.c-ville.com/events/">local events calendar.</a></p>
-    </div>
-    <div class="col-md-6 col-sm-12" style="text-align: right">
-        <iframe width="495" height="330" src="https://www.youtube.com/embed/LJDOr5LIB38" frameborder="0" allowfullscreen></iframe>
     </div>
 
 <div class="spacer"></div>
 <!-- END INFO BLOCK -->
 
+</div>
 </div>
 </div>
 </div>

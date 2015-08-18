@@ -71,12 +71,25 @@
             </ul>
         </div>
     </li>
+##    <li class="col-md-3 space-mobile">
+##        <div class="thumbnail">
+##            <img src="../static/img/people/yetton.jpg" alt="Benjamin Yetton">
+##            <h3>
+##                Benjamin Yetton
+##                <small>Developer Intern | Infrastructure</small>
+##            </h3>
+##            <ul class="social-icons social-icons-color">
+##                <li><a href="https://github.com/bdyetton" data-original-title="GitHub" class="github"></a></li>
+##                <li><a href="https://osf.io/3zbdw/" data-original-title="osf" class="osf"></a></li>
+##            </ul>
+##        </div>
+##    </li>
     <li class="col-md-3 space-mobile">
         <div class="thumbnail">
             <img src="../static/img/people/ferronato.jpg" alt="Betsy Ferronato">
             <h3>
                 Betsy Ferronato
-                <small>Human Resources Assistant| Community</small>
+                <small>Human Resources Assistant | Community</small>
                 <noscript><span class="obfuscated-email-noscript"><small style="padding-top: 5px;">bet<span style="display:none;">null</span>sy@cos<span style="display:none;">null</span>.io</small></span></noscript>
             </h3>
             <ul class="social-icons social-icons-color">
@@ -102,6 +115,19 @@
                 <li><a href="https://osf.io/e5c7r/" data-original-title="osf" class="osf"></a></li>
                 <li><a href="http://billyhunt.com/" data-original-title="Person" class="person"></a></li>
                 <li><a href="https://twitter.com/billyhunt" data-original-title="Twitter" class="twitter"></a></li>
+            </ul>
+        </div>
+    </li>
+    <li class="col-md-3 space-mobile">
+        <div class="thumbnail">
+            <img src="../static/img/people/purvis.jpg" alt="Brandon Purvis">
+            <h3>
+                Brandon Purvis
+                <small>Developer Intern | Infrastructure</small>
+            </h3>
+            <ul class="social-icons social-icons-color">
+                <li><a href="https://github.com/brandonPurvis" data-original-title="GitHub" class="github"></a></li>
+                <li><a href="https://osf.io/dbjhp/" data-original-title="osf" class="osf"></a></li>
             </ul>
         </div>
     </li>
@@ -154,7 +180,7 @@
     </li>
     <li class="col-md-3 space-mobile">
         <div class="thumbnail">
-            <img src="../static/img/people/fitzgerald3.jpg" alt="Cailey Fitzgerald">
+            <img src="../static/img/people/fitzgerald.jpg" alt="Cailey Fitzgerald">
             <h3>
                 Cailey Fitzgerald
                 <small>Developer Intern | Infrastructure</small>
@@ -175,12 +201,29 @@
                 <noscript><span class="obfuscated-email-noscript"><small style="padding-top: 5px;">can<span style="display:none;">null</span>er@co<span style="display:none;">null</span>s.io</small></span></noscript>
             </h3>
             <ul class="social-icons social-icons-color">
-                <li><script type="text/javascript">document.write("<n uers=\"znvygb:pnare@pbf.vb\" ery=\"absbyybj\" qngn-bevtvany-gvgyr=\"rznvy\" pynff=\"rznvy\"></n>".replace(/[a-zA-Z]/g,function(e){return String.fromCharCode((e<="Z"?90:122)>=(e=e.charCodeAt(0)+13)?e:e-26)}));</script></li>
+                <li><script type="text/javascript">document.write("<n uers=\"znvygb:pnare@pbf.vb\" ery=\"absbyybj\" qngn-bevtvany-gvgyr=\"rznvy\" pynff=\"rznvy\"></n>".replace(/[a-zA-Z]/g,function(e){return String.fromCharCode((e<="Z"?90:122)>=(e=e.charCodeAt(0)+13)?e:e-26)}));</script></li>              
                 <li><a href="https://github.com/caneruguz" data-original-title="GitHub" class="github"></a></li>
                 <li><a href="https://www.linkedin.com/in/caneruguz" data-original-title="LinkedIn" class="linkedin"></a></li>
                 <li><a href="https://osf.io/b6dn2/" data-original-title="osf" class="osf"></a></li>
                 <li><a href="http://www.caneruguz.com/" data-original-title="person" class="person"></a></li>
                 <li><a href="https://twitter.com/caneruguz" data-original-title="Twitter" class="twitter"></a></li>
+            </ul>
+        </div>
+    </li>
+    <li class="col-md-3 space-mobile">
+        <div class="thumbnail">
+            <img src="../static/img/people/kugler.jpg" alt="Casey Kugler">
+            <h3>
+                Casey Kugler
+                <small>Recruiter | Community</small>
+                <noscript><span class="obfuscated-email-noscript"><small style="padding-top: 5px;">casey.ku<span style="display:none;">null</span>gler@co<span style="display:none;">null</span>s.io</small></span></noscript>
+            </h3>
+            <ul class="social-icons social-icons-color">
+                <li><script type="text/javascript">document.write("<n uers=\"znvygb:pnfrl.xhtyre@pbf.vb\" ery=\"absbyybj\" qngn-bevtvany-gvgyr=\"rznvy\" pynff=\"rznvy\"></n>".replace(/[a-zA-Z]/g,function(e){return String.fromCharCode((e<="Z"?90:122)>=(e=e.charCodeAt(0)+13)?e:e-26)}));</script></li>
+                <li><a href="http://linkedin.com/in/ckugler" data-original-title="LinkedIn" class="linkedin"></a></li>
+                <li><a href="https://osf.io/b6dn2/" data-original-title="osf" class="osf"></a></li>
+                <li><a href="https://twitter.com/CaseyWithCOS" data-original-title="Twitter" class="twitter"></a></li>
+                
             </ul>
         </div>
     </li>
@@ -259,6 +302,21 @@
     </li>
     <li class="col-md-3 space-mobile">
         <div class="thumbnail">
+            <img src="../static/img/people/pattison.jpg" alt="Dawn Pattison">
+            <h3>
+                Dawn Pattison
+                <small>Developer | Infrastructure</small>
+                <noscript><span class="obfuscated-email-noscript"><small style="padding-top: 5px;">da<span style="display:none;">null</span>wn@co<span style="display:none;">null</span>s.io</small></span></noscript>
+            </h3>
+            <ul class="social-icons social-icons-color">
+                <li><script type="text/javascript">document.write("<n uers=\"znvygb:qnja@pbf.vb\" ery=\"absbyybj\" qngn-bevtvany-gvgyr=\"rznvy\" pynff=\"rznvy\"></n>".replace(/[a-zA-Z]/g,function(e){return String.fromCharCode((e<="Z"?90:122)>=(e=e.charCodeAt(0)+13)?e:e-26)}));</script></li>
+                <li><a href="https://github.com/pattisdr" data-original-title="GitHub" class="github"></a></li>
+                <li><a href="https://osf.io/wkxs8/" data-original-title="osf" class="osf"></a></li>
+            </ul>
+        </div>
+    </li>
+    <li class="col-md-3 space-mobile">
+        <div class="thumbnail">
             <img src="../static/img/people/holman.jpg" alt="Denise Holman">
             <h3>
                 Denise Holman
@@ -269,6 +327,19 @@
                 <li><script type="text/javascript">document.write("<n uers=\"znvygb:qravfr@pbf.vb\" ery=\"absbyybj\" qngn-bevtvany-gvgyr=\"rznvy\" pynff=\"rznvy\"></n>".replace(/[a-zA-Z]/g,function(e){return String.fromCharCode((e<="Z"?90:122)>=(e=e.charCodeAt(0)+13)?e:e-26)}));</script></li>
                 <li><a href="http://www.linkedin.com/profile/view?id=86936535&trk=nav_responsive_tab_profile_pic" data-original-title="Linkedin" class="linkedin"></a></li>
                 <li><a href="https://osf.io/f9xpl/" data-original-title="osf" class="osf"></a></li>
+            </ul>
+        </div>
+    </li>
+    <li class="col-md-3 space-mobile">
+        <div class="thumbnail">
+            <img src="../static/img/people/barbour.jpg" alt="Eric Barbour">
+            <h3>
+                Eric Barbour
+                <small>Developer Intern | Infrastructure</small>
+            </h3>
+            <ul class="social-icons social-icons-color">
+                <li><a href="https://github.com/barbour-em" data-original-title="GitHub" class="github"></a></li>
+                <li><a href="https://osf.io/632w7/" data-original-title="osf" class="osf"></a></li>
             </ul>
         </div>
     </li>
@@ -291,7 +362,7 @@
     </li>
     <li class="col-md-3 space-mobile">
         <div class="thumbnail">
-            <img src="../static/img/people/feilitzsch.jpg" alt="Fabian von Feilitzsch">
+            <img src="../static/img/people/vonfeilitzsch.jpg" alt="Fabian von Feilitzsch">
             <h3>
                 Fabian von Feilitzsch
                 <small>Developer | Infrastructure</small>
@@ -303,16 +374,17 @@
             </ul>
         </div>
     </li>
+
     <li class="col-md-3 space-mobile">
         <div class="thumbnail">
-            <img src="../static/img/people/huynh.jpg" alt="Faye Huynh">
+            <img src="../static/img/people/gaskins.jpg" alt="Gage Gaskins">
             <h3>
-                Faye Huynh
+                Gage Gaskins
                 <small>Developer Intern | Infrastructure</small>
             </h3>
             <ul class="social-icons social-icons-color">
-                <li><a href="https://github.com/fh9cp" data-original-title="GitHub" class="github"></a></li>
-                <li><a href="https://osf.io/zkaeq/" data-original-title="osf" class="osf"></a></li>
+                <li><a href="https://github.com/gagegaskins" data-original-title="GitHub" class="github"></a></li>
+                <li><a href="https://osf.io/ia9kv/" data-original-title="osf" class="osf"></a></li>
             </ul>
         </div>
     </li>
@@ -347,41 +419,42 @@
     </li>
     <li class="col-md-3 space-mobile">
         <div class="thumbnail">
-            <img src="../static/img/people/vuu.jpg" alt="Gina Vuu">
+            <img src="../static/img/people/chen2.jpg" alt="Haoyu Chen">
             <h3>
-                Gina Vuu
-                <small>QA Intern | Infrastructure</small>
+                Haoyu Chen
+                <small>Web Design Intern | Infrastructure</small>
             </h3>
             <ul class="social-icons social-icons-color">
-                <li><a href="https://github.com/ginavuu" data-original-title="Github" class="github"></a></li>
-                <li><a href="https://www.linkedin.com/pub/gina-vuu/a4/779/2a2" data-original-title="Linkedin" class="linkedin"></a></li>
-                <li><a href="https://osf.io/s3tzc/" data-original-title="osf" class="osf"></a></li>
+                <li><a href="https://github.com/chenhaoyu1992" data-original-title="Github" class="github"></a></li>
+                <li><a href="https://osf.io/7du32/" data-original-title="osf" class="osf"></a></li>
             </ul>
         </div>
     </li>
     <li class="col-md-3 space-mobile">
         <div class="thumbnail">
-            <img src="../static/img/people/mendell.jpg" alt="Himanshu Ojha">
-            <h3>
-                Harris Mendell
-                <small>Developer Intern | Infrastructure</small>
-            </h3>
-            <ul class="social-icons social-icons-color">
-                <li><a href="https://github.com/harrismendell" data-original-title="GitHub" class="github"></a></li>
-                <li><a href="https://osf.io/6r2an/" data-original-title="osf" class="osf"></a></li>
-            </ul>
-        </div>
-    </li>
-    <li class="col-md-3 space-mobile">
-        <div class="thumbnail">
-            <img src="../static/img/people/rybaki.jpg" alt="Harry Rybacki">
+            <img src="../static/img/people/rybacki.jpg" alt="Harry Rybacki">
             <h3>
                 Harry Rybacki
                 <small>Developer | Infrastructure</small>
+                <noscript><span class="obfuscated-email-noscript"><small style="padding-top: 5px;">har<span style="display:none;">null</span>ry@co<span style="display:none;">null</span>s.io</small></span></noscript>
             </h3>
             <ul class="social-icons social-icons-color">
+                <li><script type="text/javascript">document.write("<n uers=\"znvygb:uneel@pbf.vb\" ery=\"absbyybj\" qngn-bevtvany-gvgyr=\"rznvy\" pynff=\"rznvy\"></n>".replace(/[a-zA-Z]/g,function(e){return String.fromCharCode((e<="Z"?90:122)>=(e=e.charCodeAt(0)+13)?e:e-26)}));</script></li>
                 <li><a href="https://github.com/HarryRybacki" data-original-title="GitHub" class="github"></a></li>
                 <li><a href="https://osf.io/uycv3/" data-original-title="osf" class="osf"></a></li>
+            </ul>
+        </div>
+    </li>
+    <li class="col-md-3 space-mobile">
+        <div class="thumbnail">
+            <img src="../static/img/people/moco.jpg" alt="Henrique Moco">
+            <h3>
+                Henrique Moco
+                <small>Developer Intern | Infrastructure</small>
+            </h3>
+            <ul class="social-icons social-icons-color">
+                <li><a href="https://github.com/hmoco" data-original-title="GitHub" class="github"></a></li>
+                <li><a href="https://osf.io/y24tr/" data-original-title="osf" class="osf"></a></li>
             </ul>
         </div>
     </li>
@@ -401,14 +474,15 @@
     </li>
     <li class="col-md-3 space-mobile">
         <div class="thumbnail">
-            <img src="../static/img/people/kumar.jpg" alt="Himica Kumar">
+            <img src="../static/img/people/hand.jpg" alt="Jamie Hand">
             <h3>
-                Himica Kumar
+                Jamie Hand
                 <small>Developer Intern | Infrastructure</small>
             </h3>
             <ul class="social-icons social-icons-color">
-                <li><a href="https://github.com/himicakumar" data-original-title="GitHub" class="github"></a></li>
-                <li><a href="https://osf.io/3makx/" data-original-title="osf" class="osf"></a></li>
+                <li><a href="https://github.com/jamiehand" data-original-title="GitHub" class="github"></a></li>
+                 <li><a href="https://www.linkedin.com/in/jamiechand" data-original-title="Linkedin" class="linkedin"></a></li>
+                <li><a href="https://osf.io/26a4v/" data-original-title="osf" class="osf"></a></li>
             </ul>
         </div>
     </li>
@@ -432,6 +506,33 @@
     </li>
     <li class="col-md-3 space-mobile">
         <div class="thumbnail">
+            <img src="../static/img/people/yuan.jpg" alt="Jinlu Yuan">
+            <h3>
+                Jinlu Yuan
+                <small>QA Intern | Infrastructure</small>
+            </h3>
+            <ul class="social-icons social-icons-color">
+                <li><a href="https://www.linkedin.com/profile/view?id=195310010" data-original-title="Linkedin" class="linkedin"></a></li>
+                <li><a href="https://osf.io/xbkq5/" data-original-title="osf" class="osf"></a></li>
+            </ul>
+        </div>
+    </li>
+##    <li class="col-md-3 space-mobile">
+##        <div class="thumbnail">
+##            <img src="../static/img/people/lui.jpg" alt="Jiankun Lui">
+##            <h3>
+##                Jiankun Lui
+##                <small>Developer Intern | Infrastructure</small>
+##            </h3>
+##            <ul class="social-icons social-icons-color">
+##
+##                <li><a href="https://osf.io/wj4yg/" data-original-title="osf" class="osf"></a></li>
+##
+##            </ul>
+##        </div>
+    </li>
+    <li class="col-md-3 space-mobile">
+        <div class="thumbnail">
             <img src="../static/img/people/cohoon.jpg" alt="Johanna Cohoon">
             <h3>
                 Johanna Cohoon
@@ -449,88 +550,30 @@
     </li>
     <li class="col-md-3 space-mobile">
         <div class="thumbnail">
+            <img src="../static/img/people/tordoff.jpg" alt="John Tordoff">
+            <h3>
+                John Tordoff
+                <small>Developer Intern | Infrastructure</small>
+            </h3>
+            <ul class="social-icons social-icons-color">
+                <li><a href="https://github.com/johnetordoff" data-original-title="GitHub" class="github"></a> </li>
+                <li><a href="https://osf.io/pbjqt/" data-original-title="osf" class="osf"></a></li>
+
+            </ul>
+        </div>
+    </li>
+    <li class="col-md-3 space-mobile">
+        <div class="thumbnail">
             <img src="../static/img/people/esposito.jpg" alt="Jolene Esposito">
             <h3>
                 Jolene Esposito
-                <small>Project Manager | Metascience</small>
+                <small>Project Manager | Community</small>
                 <noscript><span class="obfuscated-email-noscript"><small style="padding-top: 5px;">jol<span style="display:none;">null</span>ene@co<span style="display:none;">null</span>s.io</small></span></noscript>
             </h3>
             <ul class="social-icons social-icons-color">
                 <li><script type="text/javascript">document.write("<n uers=\"znvygb:wbyrar@pbf.vb\" ery=\"absbyybj\" qngn-bevtvany-gvgyr=\"rznvy\" pynff=\"rznvy\"></n>".replace(/[a-zA-Z]/g,function(e){return String.fromCharCode((e<="Z"?90:122)>=(e=e.charCodeAt(0)+13)?e:e-26)}));</script></li>
                 <li><a href="https://github.com/jolene-esposito" data-original-title="Github" class="github"></a></li>
                 <li><a href="https://osf.io/wmp4n/" data-original-title="osf" class="osf"></a></li>
-            </ul>
-        </div>
-    </li>
-        <li class="col-md-3 space-mobile">
-        <div class="thumbnail">
-            <img src="../static/img/people/gold.jpg" alt="Jordan Gold">
-            <h3>
-                Jordan Gold
-                <small>QA Intern | Infrastructure</small>
-            </h3>
-            <ul class="social-icons social-icons-color">
-                <li><a href="https://github.com/jeg3tw" data-original-title="GitHub" class="github"></a> </li>
-                <li><a href="https://osf.io/e4zsq/" data-original-title="osf" class="osf"></a></li>
-                
-            </ul>
-        </div>
-    </li>
-        <li class="col-md-3 space-mobile">
-        <div class="thumbnail">
-            <img src="../static/img/people/carrigan.jpg" alt="Jillian Carrigan">
-            <h3>
-                Jillian Carrigan
-                <small>Administrative Assistant Intern | Community</small>
-            </h3>
-            <ul class="social-icons social-icons-color">
-                <li><a href="http://www.linkedin.com/pub/jillian-carrigan/a0/919/6b/" data-original-title="Linkedin" class="linkedin"></a></li>
-                <li><a href="https://osf.io/an7bp/" data-original-title="osf" class="osf"></a></li>
-            </ul>
-        </div>
-    </li>
-    <li class="col-md-3 space-mobile">
-        <div class="thumbnail">
-            <img src="../static/img/people/davydova.jpg" alt="Katya Davydova">
-            <h3>
-                Katya Davydova
-                <small> Human Resources Intern | Community</small>
-                <noscript><span class="obfuscated-email-noscript"><small style="padding-top: 5px;">kdav<span style="display:none;">null</span>ydova@co<span style="display:none;">null</span>s.io</small></span></noscript>
-            </h3>
-            <ul class="social-icons social-icons-color">
-                <li><script type="text/javascript">document.write("<n uers=\"znvygb:xqnilqbin@pbf.vb\" ery=\"absbyybj\" qngn-bevtvany-gvgyr=\"rznvy\" pynff=\"rznvy\"></n>".replace(/[a-zA-Z]/g,function(e){return String.fromCharCode((e<="Z"?90:122)>=(e=e.charCodeAt(0)+13)?e:e-26)}));</script></li>
-                <li><a href="https://github.com/kdavydova13" data-original-title="GitHub" class="github"></a> </li>
-                <li><a href="https://www.linkedin.com/profile/view?id=200774365" data-original-title="linkedin" class="linkedin"></a></li>
-                <li><a href="http://osf.io/tfj5b" data-original-title="osf" class="osf"></a></li>
-            </ul>
-        </div>
-    </li>
-    <li class="col-md-3 space-mobile">
-        <div class="thumbnail">
-            <img src="../static/img/people/jungersen.jpg" alt="Kurtis Jungersen">
-            <h3>
-                Kurtis Jungersen
-                <small>Developer Intern | Infrastructure</small>
-            </h3>
-            <ul class="social-icons social-icons-color">
-                <li><a href="https://github.com/kmjungersen" data-original-title="GitHub" class="github"></a> </li>
-                <li><a href="https://www.linkedin.com/pub/kurtis-jungersen/37/76b/3a" data-original-title="linkedin" class="linkedin"></a></li>
-                <li><a href="https://osf.io/q36he/" data-original-title="osf" class="osf"></a></li>
-            </ul>
-        </div>
-    </li>
-    <li class="col-md-3 space-mobile">
-        <div class="thumbnail">
-            <img src="../static/img/people/gupta.jpg" alt="Kushagra Gupta">
-            <h3>
-                Kushagra Gupta
-                <small>Developer Intern | Infrastructure</small>
-            </h3>
-            <ul class="social-icons social-icons-color">
-                <li><a href="https://www.facebook.com/imkushagra" data-original-title="Facebook" class="facebook"></a></li>
-                <li><a href="https://github.com/KushG" data-original-title="GitHub" class="github"></a> </li>
-                <li><a href="https://www.linkedin.com/pub/kushagra-gupta/26/88/a84" data-original-title="linkedin" class="linkedin"></a></li>
-                <li><a href="https://osf.io/k9xyz/" data-original-title="osf" class="osf"></a></li>
             </ul>
         </div>
     </li>
@@ -547,6 +590,33 @@
                 <li><a href="https://github.com/lbanner" data-original-title="GitHub" class="github"></a> </li>
                 <li><a href="https://osf.io/ygsav/" data-original-title="osf" class="osf"></a></li>
                 <li><a href="https://twitter.com/lbanner" data-original-title="Twitter" class="twitter"></a></li>
+            </ul>
+        </div>
+    </li>
+    <li class="col-md-3 space-mobile">
+        <div class="thumbnail">
+            <img src="../static/img/people/barker.jpg" alt="Lauren Barker">
+            <h3>
+                Lauren Barker
+                <small>Developer Intern | Infrastructure</small>
+            </h3>
+            <ul class="social-icons social-icons-color">
+                <li><a href="https://github.com/leb2dg" data-original-title="GitHub" class="github"></a></li>
+                <li><a href="https://osf.io/4mct9/" data-original-title="osf" class="osf"></a></li>
+            </ul>
+        </div>
+    </li>
+    <li class="col-md-3 space-mobile">
+        <div class="thumbnail">
+            <img src="../static/img/people/revere.jpg" alt="Lauren Revere">
+            <h3>
+                Lauren Revere
+                <small>Developer Intern | Infrastructure</small>
+            </h3>
+            <ul class="social-icons social-icons-color">
+                <li><a href="https://github.com/geeksnglitter" data-original-title="GitHub" class="github"></a></li>
+                <li><a href="https://www.linkedin.com/pub/lauren-revere/75/9ab/826" data-original-title="linkedin" class="linkedin"></a></li>
+                <li><a href="https://osf.io/3t5vu/" data-original-title="osf" class="osf"></a></li>
             </ul>
         </div>
     </li>
@@ -581,13 +651,12 @@
                 </ul>
         </div>
     </li>
-    </li>
     <li class="col-md-3 space-mobile">
         <div class="thumbnail">
             <img src="../static/img/people/frazier.jpg" alt="Matthew Frazier">
             <h3>
                 Matthew Frazier
-                <small>Developer Intern | Infrastructure</small>
+                <small>Developer | Infrastructure</small>
             </h3>
             <ul class="social-icons social-icons-color">
                 <li><a href="https://github.com/mfraezz" data-original-title="GitHub" class="github"></a> </li>
@@ -597,35 +666,26 @@
     </li>
     <li class="col-md-3 space-mobile">
         <div class="thumbnail">
-            <img src="../static/img/people/kelly.jpg" alt="Megan Kelly">
-            <h3>
-                Megan Kelly
-                <small>Developer Intern | Infrastructure</small>
-            </h3>
-            <ul class="social-icons social-icons-color">
-                <li><a href="https://github.com/megankelly" data-original-title="GitHub" class="github"></a> </li>
-                <li><a href="https://osf.io/vz8ug/" data-original-title="osf" class="osf"></a></li>
-            </ul>
-        </div>
-    </li>
-    <li class="col-md-3 space-mobile">
-        <div class="thumbnail">
             <img src="../static/img/people/renfro.jpg" alt="Megan Renfro">
             <h3>
                 Megan Renfro
                 <small>Administrative Assistant | Community</small>
+                <noscript><span class="obfuscated-email-noscript"><small style="padding-top: 5px;">mren<span style="display:none;">null</span>fro@co<span style="display:none;">null</span>s.io</small></span></noscript>
             </h3>
             <ul class="social-icons social-icons-color">
+            <li><script type="text/javascript">document.write("<n uers=\"znvygb:zeraseb@pbf.vb\" ery=\"absbyybj\" qngn-bevtvany-gvgyr=\"rznvy\" pynff=\"rznvy\"></n>".replace(/[a-zA-Z]/g,function(e){return String.fromCharCode((e<="Z"?90:122)>=(e=e.charCodeAt(0)+13)?e:e-26)}));</script></li>
+                <li><a href="https://www.linkedin.com/pub/megan-renfro/b5/800/287" data-original-title="linkedin" class="linkedin"></a></li>
                 <li><a href="https://osf.io/zn5bv/" data-original-title="osf" class="osf"></a></li>
+                <li><a href="https://twitter.com/chimnysphere" data-original-title="Twitter" class="twitter"></a></li>
             </ul>
         </div>
     </li>
     </li>
         <li class="col-md-3 space-mobile">
         <div class="thumbnail">
-            <img src="../static/img/people/michael.jpg" alt="Michael Hasleton">
+            <img src="../static/img/people/haselton.jpg" alt="Michael Haselton">
             <h3>
-                Michael Hasleton
+                Michael Haselton
                 <small>Developer | Infrastructure</small>
                 <noscript><span class="obfuscated-email-noscript"><small style="padding-top: 5px;">mich<span style="display:none;">null</span>ael@co<span style="display:none;">null</span>s.io</small></span></noscript>
             </h3>
@@ -656,6 +716,20 @@
     </li>
     <li class="col-md-3 space-mobile">
         <div class="thumbnail">
+            <img src="../static/img/people/welcher.jpg" alt="Natasha Richter">
+            <h3>
+                Natasha Welcher
+                <small>QA Software Quality Engineer | Infrastructure</small>
+                <noscript><span class="obfuscated-email-noscript"><small style="padding-top: 5px;">nwelch<span style="display:none;">null</span>er@co<span style="display:none;">null</span>s.io</small></span></noscript>
+            </h3>
+            <ul class="social-icons social-icons-color">
+                <li><script type="text/javascript">document.write("<n uers=\"znvygb:ajrypure@pbf.vb\" ery=\"absbyybj\" qngn-bevtvany-gvgyr=\"rznvy\" pynff=\"rznvy\"></n>".replace(/[a-zA-Z]/g,function(e){return String.fromCharCode((e<="Z"?90:122)>=(e=e.charCodeAt(0)+13)?e:e-26)}));</script></li>
+                <li><a href="https://osf.io/dx56w/" data-original-title="osf" class="osf"></a></li>
+            </ul>
+        </div>
+    </li>
+    <li class="col-md-3 space-mobile">
+        <div class="thumbnail">
             <img src="../static/img/people/pfeiffer.jpg" alt="Nicole Pfeiffer">
             <h3>
                 Nicole Pfeiffer
@@ -670,31 +744,80 @@
             </ul>
         </div>
     </li>
+    <li class="col-md-3 space-mobile">
+        <div class="thumbnail">
+            <img src="../static/img/people/gorman2.jpg" alt="Patrick Gorman">
+            <h3>
+                Patrick Gorman
+                <small>Developer Intern | Infrastructure</small>
+            </h3>
+            <ul class="social-icons social-icons-color">
+                <li><a href="http://www.github.com/PatrickEGorman" data-original-title="github" class="github"></a></li>
+                <li><a href="https://osf.io/nrzex/" data-original-title="osf" class="osf"></a></li>
+            </ul>
+        </div>
+    </li>
+    <li class="col-md-3 space-mobile">
+        <div class="thumbnail">
+            <img src="../static/img/people/nussbaum.jpg" alt="Patrick Nussbaum">
+            <h3>
+                Patrick Nussbaum
+                <small>Developer Intern | Infrastructure</small>
+            </h3>
+            <ul class="social-icons social-icons-color">
+                <li><a href="https://github.com/mpnussbaum" data-original-title="GitHub" class="github"></a></li>
+                <li><a href="https://osf.io/nwfu8/" data-original-title="osf" class="osf"></a></li>
+            </ul>
+        </div>
+    </li>
+    <li class="col-md-3 space-mobile">
+        <div class="thumbnail">
+            <img src="../static/img/people/tickle.jpg" alt="Pierce Tickle">
+            <h3>
+                Pierce Tickle
+                <small>Developer Intern | Infrastructure</small>
+            </h3>
+            <ul class="social-icons social-icons-color">
+                <li><a href="https://github.com/ticklemepierce" data-original-title="GitHub" class="github"></a></li>
+                <li><a href="https://osf.io/bdgrh/" data-original-title="osf" class="osf"></a></li>
+            </ul>
+        </div>
+    </li>
      <li class="col-md-3 space-mobile">
         <div class="thumbnail">
             <img src="../static/img/people/hernandez.jpg" alt="Reina Hernandez">
             <h3>
                 Reina Hernandez
-                <small>QA Intern | Infrastructure</small>
-            </h3>
-            <ul class="social-icons social-icons-color">
-            
-                    <li><a href="https://osf.io/3gs4f/" data-original-title="osf" class="osf"></a></li>
-                </ul>
-        </div>
-    </li>
-    
-    <li class="col-md-3 space-mobile">
-        <div class="thumbnail">
-            <img src="../static/img/people/liebowitz.jpg" alt="Robert Liebowitz">
-            <h3>
-                Robert Liebowitz
                 <small>Developer Intern | Infrastructure</small>
             </h3>
             <ul class="social-icons social-icons-color">
-                <li><a href="https://www.facebook.com/RobertEvan" data-original-title="Facebook" class="facebook"></a></li>
-                <li><a href="https://github.com/rliebz" data-original-title="GitHub" class="github"></a></li>
-                <li><a href="https://osf.io/nf3cv/" data-original-title="osf" class="osf"></a></li>
+                <li><a href="https://osf.io/3gs4f/" data-original-title="osf" class="osf"></a></li>
+            </ul>
+        </div>
+    </li>
+##    <li class="col-md-3 space-mobile">
+##        <div class="thumbnail">
+##            <img src="../static/img/people/kolli.jpg" alt="Revanth Kolli">
+##            <h3>
+##                Revanth Kolli
+##                <small>Developer Intern | Infrastructure</small>
+##            </h3>
+##            <ul class="social-icons social-icons-color">
+##                <li><a href="https://github.com/revnathkolli" data-original-title="GitHub" class="github"></a></li>
+##
+##            </ul>
+##        </div>
+##    </li>
+    <li class="col-md-3 space-mobile">
+        <div class="thumbnail">
+            <img src="../static/img/people/bajaj.jpg" alt="Rohan Bajaj">
+            <h3>
+                Rohan Bajaj
+                <small>Developer Volunteer | Infrastructure</small>
+            </h3>
+            <ul class="social-icons social-icons-color">
+                <li><a href="https://github.com/rohan-bajij" data-original-title="GitHub" class="github"></a></li>
+                <li><a href="https://osf.io/djp5m/" data-original-title="osf" class="osf"></a></li>
             </ul>
         </div>
     </li>
@@ -706,7 +829,7 @@
                 <small>Developer | Infrastructure</small>
             </h3>
             <ul class="social-icons social-icons-color">
-                <li><a href="http://github.com/shc7pw" data-original-title="GitHub" class="github"></a></li>
+                <li><a href="https://github.com/samchrisinger" data-original-title="GitHub" class="github"></a></li>
                 <li><a href="https://osf.io/4ur7b/" data-original-title="osf" class="osf"></a></li>
             </ul>
         </div>
@@ -775,16 +898,14 @@
             </ul>
         </div>
     </li>
-        <li class="col-md-3">
+    <li class="col-md-3">
         <div class="thumbnail">
-            <img src="../static/img/people/zhu.jpg" alt="Wendy Zhu">
+            <img src="../static/img/people/banner2.jpg" alt="William Banner">
             <h3>
-                Wendy Zhu
-                <small>Developer Volunteer | Infrastructure</small>
+                William Banner
+                <small> QA Intern | Infrastructure</small>
             </h3>
             <ul class="social-icons social-icons-color">
-                <li><a href="https://github.com/wentingzhu" data-original-title="GitHub" class="github"></a></li>
-                <li><a href="https://osf.io/kneic/" data-original-title="osf" class="osf"></a></li>
             </ul>
         </div>
     </li>
@@ -798,6 +919,31 @@
             <ul class="social-icons social-icons-color">
                 <li><a href="https://osf.io/hwzg7/" data-original-title="osf" class="osf"></a></li>
                 <li><a href="https://www.linkedin.com/pub/wisher-paudel/97/614/b8" data-original-title="LinkedIn" class="linkedin"></a></li>
+            </ul>
+        </div>
+    </li>
+    <li class="col-md-3 space-mobile">
+        <div class="thumbnail">
+            <img src="../static/img/people/herrick.jpg" alt="Alexander Herrick">
+            <h3>
+                Xander Herrick
+                <small>Developer Intern | Infrastructure</small>
+            </h3>
+            <ul class="social-icons social-icons-color">
+                <li><a href="https://osf.io/trwjd/" data-original-title="osf" class="osf"></a></li>
+            </ul>
+        </div>
+    </li>
+    <li class="col-md-3 space-mobile">
+        <div class="thumbnail">
+            <img src="../static/img/people/kraimeche.jpg" alt="Zakary Kraimeche">
+            <h3>
+                Zakary Kraimeche
+                <small>Developer Intern | Infrastructure</small>
+            </h3>
+            <ul class="social-icons social-icons-color">
+                <li><a href="https://github.com/zkraime" data-original-title="GitHub" class="github"></a></li>
+                <li><a href="https://osf.io/sna7i/" data-original-title="osf" class="osf"></a></li>
             </ul>
         </div>
     </li>
@@ -888,18 +1034,6 @@
             </h3>
         </div>
     </li>
-<!--     <li class="col-md-3 space-mobile">
-        <div class="thumbnail">
-            <img src="../static/img/people/wang.jpg" alt="Chun Wang">
-            <h3>
-                Chun Wang
-                <small>Developer Intern | Infrastructure</small>
-            </h3>
-            <ul class="social-icons social-icons-color">
-                <li><a href="https://osf.io/mejnw/" data-original-title="osf" class="osf"></a></li>
-            </ul>
-        </div>
-    </li> -->
     <li class="col-md-3 space-mobile">
         <div class="thumbnail">
             <img src="../static/img/people/nelson.jpg" alt="Cornelius Nelson">
@@ -954,6 +1088,33 @@
     </li>
     <li class="col-md-3 space-mobile">
         <div class="thumbnail">
+            <img src="../static/img/people/huynh.jpg" alt="Faye Huynh">
+            <h3>
+                Faye Huynh
+                <small>Developer Intern | Infrastructure</small>
+            </h3>
+            <ul class="social-icons social-icons-color">
+                <li><a href="https://github.com/fh9cp" data-original-title="GitHub" class="github"></a></li>
+                <li><a href="https://osf.io/zkaeq/" data-original-title="osf" class="osf"></a></li>
+            </ul>
+        </div>
+    </li>
+    <li class="col-md-3 space-mobile">
+        <div class="thumbnail">
+            <img src="../static/img/people/vuu.jpg" alt="Gina Vuu">
+            <h3>
+                Gina Vuu
+                <small>QA Intern | Infrastructure</small>
+            </h3>
+            <ul class="social-icons social-icons-color">
+                <li><a href="https://github.com/ginavuu" data-original-title="Github" class="github"></a></li>
+                <li><a href="https://www.linkedin.com/pub/gina-vuu/a4/779/2a2" data-original-title="Linkedin" class="linkedin"></a></li>
+                <li><a href="https://osf.io/s3tzc/" data-original-title="osf" class="osf"></a></li>
+            </ul>
+        </div>
+    </li>
+    <li class="col-md-3 space-mobile">
+        <div class="thumbnail">
             <img src="../static/img/people/huang.jpg" alt="Ginny Huang">
             <h3>
                 Ginny Huang
@@ -962,6 +1123,32 @@
             <ul class="social-icons social-icons-color">
                 <li><a href="https://github.com/huangginny" data-original-title="Github" class="github"></a></li>
                 <li><a href="https://osf.io/ij94f/" data-original-title="osf" class="osf"></a></li>
+            </ul>
+        </div>
+    </li>
+    <li class="col-md-3 space-mobile">
+        <div class="thumbnail">
+            <img src="../static/img/people/mendell.jpg" alt="Himanshu Ojha">
+            <h3>
+                Harris Mendell
+                <small>Developer Intern | Infrastructure</small>
+            </h3>
+            <ul class="social-icons social-icons-color">
+                <li><a href="https://github.com/harrismendell" data-original-title="GitHub" class="github"></a></li>
+                <li><a href="https://osf.io/6r2an/" data-original-title="osf" class="osf"></a></li>
+            </ul>
+        </div>
+    </li>
+    <li class="col-md-3 space-mobile">
+        <div class="thumbnail">
+            <img src="../static/img/people/kumar.jpg" alt="Himica Kumar">
+            <h3>
+                Himica Kumar
+                <small>Developer Intern | Infrastructure</small>
+            </h3>
+            <ul class="social-icons social-icons-color">
+                <li><a href="https://github.com/himicakumar" data-original-title="GitHub" class="github"></a></li>
+                <li><a href="https://osf.io/3makx/" data-original-title="osf" class="osf"></a></li>
             </ul>
         </div>
     </li>
@@ -981,6 +1168,19 @@
     </li>
     <li class="col-md-3 space-mobile">
         <div class="thumbnail">
+            <img src="../static/img/people/carrigan.jpg" alt="Jillian Carrigan">
+            <h3>
+                Jillian Carrigan
+                <small>Administrative Assistant Intern | Community</small>
+            </h3>
+            <ul class="social-icons social-icons-color">
+                <li><a href="http://www.linkedin.com/pub/jillian-carrigan/a0/919/6b/" data-original-title="Linkedin" class="linkedin"></a></li>
+                <li><a href="https://osf.io/an7bp/" data-original-title="osf" class="osf"></a></li>
+            </ul>
+        </div>
+    </li>
+    <li class="col-md-3 space-mobile">
+        <div class="thumbnail">
             <img src="../static/img/people/witschey.jpg" alt="Jim Witschey">
             <h3>
                 Jim Witschey
@@ -993,16 +1193,17 @@
             </ul>
         </div>
     </li>
-        <li class="col-md-3 space-mobile">
+   <li class="col-md-3 space-mobile">
         <div class="thumbnail">
-            <img src="../static/img/people/yuan.jpg" alt="Jinlu Yuan">
+            <img src="../static/img/people/gold.jpg" alt="Jordan Gold">
             <h3>
-                Jinlu Yuan
-                <small>HR Intern | Community</small>
+                Jordan Gold
+                <small>QA Intern | Infrastructure</small>
             </h3>
             <ul class="social-icons social-icons-color">
-                <li><a href="https://www.linkedin.com/profile/view?id=195310010" data-original-title="Linkedin" class="linkedin"></a></li>
-                <li><a href="https://osf.io/xbkq5/" data-original-title="osf" class="osf"></a></li>
+                <li><a href="https://github.com/jeg3tw" data-original-title="GitHub" class="github"></a> </li>
+                <li><a href="https://osf.io/e4zsq/" data-original-title="osf" class="osf"></a></li>
+
             </ul>
         </div>
     </li>
@@ -1039,15 +1240,72 @@
     </li>
     <li class="col-md-3 space-mobile">
         <div class="thumbnail">
-            <img src="../static/img/people/revere.jpg" alt="Lauren Revere">
+            <img src="../static/img/people/davydova.jpg" alt="Katya Davydova">
             <h3>
-                Lauren Revere
+                Katya Davydova
+                <small> Human Resources Intern | Community</small>
+                <noscript><span class="obfuscated-email-noscript"><small style="padding-top: 5px;">kdav<span style="display:none;">null</span>ydova@co<span style="display:none;">null</span>s.io</small></span></noscript>
+            </h3>
+            <ul class="social-icons social-icons-color">
+                <li><a href="https://github.com/kdavydova13" data-original-title="GitHub" class="github"></a> </li>
+                <li><a href="https://www.linkedin.com/profile/view?id=200774365" data-original-title="linkedin" class="linkedin"></a></li>
+                <li><a href="http://osf.io/tfj5b" data-original-title="osf" class="osf"></a></li>
+            </ul>
+        </div>
+    </li>
+    <li class="col-md-3 space-mobile">
+        <div class="thumbnail">
+            <img src="../static/img/people/gupta.jpg" alt="Kushagra Gupta">
+            <h3>
+                Kushagra Gupta
                 <small>Developer Intern | Infrastructure</small>
             </h3>
             <ul class="social-icons social-icons-color">
-                <li><a href="https://github.com/geeksnglitter" data-original-title="GitHub" class="github"></a></li>
-                <li><a href="https://www.linkedin.com/pub/lauren-revere/75/9ab/826" data-original-title="linkedin" class="linkedin"></a></li>
-                <li><a href="https://osf.io/3t5vu/" data-original-title="osf" class="osf"></a></li>
+                <li><a href="https://www.facebook.com/imkushagra" data-original-title="Facebook" class="facebook"></a></li>
+                <li><a href="https://github.com/KushG" data-original-title="GitHub" class="github"></a> </li>
+                <li><a href="https://www.linkedin.com/pub/kushagra-gupta/26/88/a84" data-original-title="linkedin" class="linkedin"></a></li>
+                <li><a href="https://osf.io/k9xyz/" data-original-title="osf" class="osf"></a></li>
+            </ul>
+        </div>
+    </li>
+
+
+    <li class="col-md-3 space-mobile">
+        <div class="thumbnail">
+            <img src="../static/img/people/jungersen.jpg" alt="Kurtis Jungersen">
+            <h3>
+                Kurtis Jungersen
+                <small>Developer Intern | Infrastructure</small>
+            </h3>
+            <ul class="social-icons social-icons-color">
+                <li><a href="https://github.com/kmjungersen" data-original-title="GitHub" class="github"></a> </li>
+                <li><a href="https://www.linkedin.com/pub/kurtis-jungersen/37/76b/3a" data-original-title="linkedin" class="linkedin"></a></li>
+                <li><a href="https://osf.io/q36he/" data-original-title="osf" class="osf"></a></li>
+            </ul>
+        </div>
+    </li>
+    <li class="col-md-3">
+        <div class="thumbnail">
+            <img src="../static/img/people/ghaemmaghami.jpg" alt="Leela Ghaemmaghami">
+            <h3>
+                Leela Ghaemmaghami
+                <small>Developer Volunteer | Infrastructure</small>
+            </h3>
+            <ul class="social-icons social-icons-color">
+                <li><a href="https://github.com/leela-1" data-original-title="GitHub" class="github"></a></li>
+            </ul>
+        </div>
+    </li>
+    <li class="col-md-3 space-mobile">
+        <div class="thumbnail">
+            <img src="../static/img/people/kelly.jpg" alt="Megan Kelly">
+            <h3>
+                Megan Kelly
+                <small>Developer Intern | Infrastructure</small>
+            </h3>
+            <ul class="social-icons social-icons-color">
+                <li><a href="https://github.com/megankelly" data-original-title="GitHub" class="github"></a> </li>
+                <li><a href="https://osf.io/vz8ug/" data-original-title="osf" class="osf"></a></li>
             </ul>
         </div>
     </li>
@@ -1083,21 +1341,23 @@
                 Michelle Yao
                 <small>Developer Intern | Infrastructure</small>
             </h3>
-                <ul class="social-icons social-icons-color">
-                    <li><a href="https://github.com/xym4" data-original-title="GitHub" class="github"></a></li>
+            <ul class="social-icons social-icons-color">
+                <li><a href="https://github.com/xym4" data-original-title="GitHub" class="github"></a></li>
                 <li><a href="https://osf.io/ufixg/" data-original-title="osf" class="osf"></a></li>
-                </ul>
+            </ul>
         </div>
     </li>
-        <li class="col-md-3 space-mobile">
+
+    <li class="col-md-3 space-mobile">
         <div class="thumbnail">
-            <img src="../static/img/people/richter2.jpg" alt="Natasha Richter">
+            <img src="../static/img/people/muggill.jpg" alt="Patrick Muggill">
             <h3>
-                Natasha Welcher
-                <small>HR Assistant | Community</small>
+                Patrick Muggill
+                <small>IT Intern | Infrastructure</small>
             </h3>
             <ul class="social-icons social-icons-color">
-                <li><a href="https://osf.io/dx56w/" data-original-title="osf" class="osf"></a></li>
+                <li><a href="http://www.linkedin.com/in/patrickmuggill" data-original-title="linkedin" class="linkedin"></a></li>
+                <li><a href="https://osf.io/239eh/" data-original-title="osf" class="osf"></a></li>
             </ul>
         </div>
     </li>
@@ -1140,6 +1400,20 @@
     </li>
     <li class="col-md-3 space-mobile">
         <div class="thumbnail">
+            <img src="../static/img/people/liebowitz.jpg" alt="Robert Liebowitz">
+            <h3>
+                Robert Liebowitz
+                <small>Developer Intern | Infrastructure</small>
+            </h3>
+            <ul class="social-icons social-icons-color">
+                <li><a href="https://www.facebook.com/RobertEvan" data-original-title="Facebook" class="facebook"></a></li>
+                <li><a href="https://github.com/rliebz" data-original-title="GitHub" class="github"></a></li>
+                <li><a href="https://osf.io/nf3cv/" data-original-title="osf" class="osf"></a></li>
+            </ul>
+        </div>
+    </li>
+    <li class="col-md-3 space-mobile">
+        <div class="thumbnail">
             <img src="../static/img/people/portnow.jpg" alt="Sam Portnow">
             <h3>
                 Sam Portnow
@@ -1175,16 +1449,16 @@
             </ul>
         </div>
     </li>
-    <li class="col-md-3 space-mobile">
+    <li class="col-md-3">
         <div class="thumbnail">
-            <img src="../static/img/people/herrick.jpg" alt="Xander Herrick">
+            <img src="../static/img/people/zhu.jpg" alt="Wendy Zhu">
             <h3>
-                Xander Herrick
-                <small>Developer Intern | Infrastructure</small>
+                Wendy Zhu
+                <small>Developer Volunteer | Infrastructure</small>
             </h3>
             <ul class="social-icons social-icons-color">
-                <li><a href="https://github.com/XTech2k" data-original-title="GitHub" class="github"></a></li>
-                <li><a href="https://osf.io/trwjd/" data-original-title="osf" class="osf"></a></li>
+                <li><a href="https://github.com/wentingzhu" data-original-title="GitHub" class="github"></a></li>
+                <li><a href="https://osf.io/kneic/" data-original-title="osf" class="osf"></a></li>
             </ul>
         </div>
     </li>

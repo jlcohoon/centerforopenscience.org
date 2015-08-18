@@ -31,15 +31,185 @@
             <!-- BEGIN Press BLOCKS -->
             <div class="col-md-12">
                 <div class="row margin-bottom-20">
-                    
+                    <a class="col-md-4 service-box-v1" href="../pr/2015-08-12">
+                        <table>
+                            <tr>
+                                <td><img src="../static/img/icons/cos_logo.png" width="125" align="left" style="padding-top: 20px; padding-right: 10px"></td>
+                                <td><h2 class="text-left">OSF now a recommended repository for Nature Publishing Group's journal Scientific Data</h2></td>
+                            </tr>
+                        </table>
+                        <p class="text-left">August 2015 | Studies are finding that many groundbreaking published results with implications for human health and disease cannot be replicated. Sarah Webb explores how reproducibility issues in basic science are creating bumps on the road to the clinic.</p>
+                    </a>
+                    <a class="col-md-4 service-box-v1" href="http://www.biotechniques.com/multimedia/archive/00250/BTN_A_000114314_O_250469a.pdf">
+                        <table>
+                            <tr>
+                                <td><img src="../static/img/icons/biotechniques.jpg" width="125" align="left" style="padding-top: 20px; padding-right: 10px"></td>
+                                <td><h2 class="text-left">Supporting More Reliable Results</h2></td>
+                            </tr>
+                        </table>
+                        <p class="text-left">August 2015 | Studies are finding that many groundbreaking published results with implications for human health and disease cannot be replicated. Sarah Webb explores how reproducibility issues in basic science are creating bumps on the road to the clinic.</p>
+                    </a>
+                    <a class="col-md-4 service-box-v1" href="../pr/2015-08-07/">
+                        <table>
+                            <tr>
+                                <td><img src="../static/img/icons/cos_logo.png" width="125" align="left" style="padding-top: 20px; padding-right: 10px"></td>
+                                <td><h2 class="text-left">Center for Open Science Announces Five New Hires</h2></td>
+                            </tr>
+                        </table>
+                        <p class="text-left">August 7, 2015 | Today, the Center for Open Science announced the hiring of five new staff to expand their full-time team to 40. Joining the staff are four Developers and one Software Quality Engineer.</p>
+                    </a>
+                    <a class="col-md-4 service-box-v1" href="https://www.coar-repositories.org/activities/advocacy-leadership/aligning-repository-networks-across-regions/collaboration-on-data-exchange-technological-development-and-metadata/">
+                        <table>
+                            <tr>
+                                <td><img src="../static/img/icons/coar.png" width="125" align="left" style="padding-top: 20px; padding-right: 10px"></td>
+                                <td><h2 class="text-left">Major repository networks  to collaborate on data exchange, tech development, and metadata</h2></td>
+                            </tr>
+                        </table>
+                        <p class="text-left">July 16, 2015 | Three major regional open access repository networks and aggregators (OpenAire, LA Referencia, and SHARE), along with the Confederation of Open Access Repositories (COAR) and Center for Open Science (COS) met to discuss potential areas of collaboration.</p>
+                    </a>
+                    <a class="col-md-4 service-box-v1" href="http://arstechnica.com/science/2015/07/some-new-ideas-for-fixing-science/">
+                        <table>
+                            <tr>
+                                <td><img src="../static/img/icons/ars.jpeg" width="125" align="left" style="padding-top: 20px; padding-right: 10px"></td>
+                                <td><h2 class="text-left">Some New Ideas for Fixing Science</h2></td>
+                            </tr>
+                        </table>
+                        <p class="text-left">July 2, 2015 | The latest issue of Science includes three articles that lay out options for journals, universities, and individual researchers who hope to improve transparency and accountability in research.</p>
+                    </a>
+                    <a class="col-md-4 service-box-v1" href="http://nymag.com/scienceofus/2015/06/new-guidelines-for-better-scientific-research.html">
+                        <table>
+                            <tr>
+                                <td><img src="../static/img/icons/sciofus.png" width="125" align="left" style="padding-top: 20px; padding-right: 10px"></td>
+                                <td><h2 class="text-left">Scientists Just Published Ambitious New Guidelines for Conducting Better Research</h2></td>
+                            </tr>
+                        </table>
+                        <p class="text-left">June 25, 2015 | Today the group released its guidelines via an article in (perhaps fittingly) Science, lead-authored by Brian Nosek, a University of Virginia psychologist and research-transparency advocate, and they’re ambitious. </p>
+                    </a>
+                    <a class="col-md-4 service-box-v1" href="http://www.theguardian.com/science/head-quarters/2015/jun/25/the-first-imperative-science-that-isnt-transparent-isnt-science">
+                        <table>
+                            <tr>
+                                <td><img src="../static/img/icons/guardian.gif" width="125" align="left" style="padding-top: 20px; padding-right: 10px"></td>
+                                <td><h2 class="text-left">The first imperative: Science that isn’t transparent isn’t science</h2></td>
+                            </tr>
+                        </table>
+                        <p class="text-left">June 25, 2015 | Today we launch a new initiative to promote ‘open science’ or as we hope to one day call it, ‘science’</p>
+                    </a>
+                    <a class="col-md-4 service-box-v1" href="http://www.nytimes.com/2015/06/26/science/journal-science-releases-guidelines-for-publishing-scientific-studies.html?referrer=">
+                        <table>
+                            <tr>
+                                <td><img src="../static/img/icons/nyt.png" width="125" align="left" style="padding-top: 20px; padding-right: 10px"></td>
+                                <td><h2 class="text-left">Journal Science Releases Guidelines for Publishing Scientific Studies</h2></td>
+                            </tr>
+                        </table>
+                        <p class="text-left">June 25, 2015 | In the midst of a debate over scientific misconduct, one of the world’s leading scientific journals on Thursday posted the most comprehensive guidelines for the publication of studies in basic science to date, calling for the adoption of clearly defined rules on the sharing of data and methods.</p>
+                    </a>
+                     <a class="col-md-4 service-box-v1" href="http://www.sciencemag.org/content/348/6242/1403.full">
+                        <table>
+                            <tr>
+                                <td><img src="../static/img/icons/aaas.jpg" width="125" align="left" style="padding-top: 20px; padding-right: 10px"></td>
+                                <td><h2 class="text-left">Solving Reproducibility</h2></td>
+                            </tr>
+                        </table>
+                        <p class="text-left">June 25, 2015 | Transparency is central to improving reproducibility, but it is expensive and time-consuming. What can be done to alleviate those obstacles?</p>
+                    </a>
+                    <a class="col-md-4 service-box-v1" href="http://www.sciencemag.org/content/348/6242/1422.full">
+                        <table>
+                            <tr>
+                                <td><img src="../static/img/icons/aaas.jpg" width="125" align="left" style="padding-top: 20px; padding-right: 10px"></td>
+                                <td><h2 class="text-left">Promoting an Open Research Culture</h2></td>
+                            </tr>
+                        </table>
+                        <p class="text-left">June 25, 2015 | Transparency, openness, and reproducibility are readily recognized as vital features of science. When asked, most scientists embrace these features as disciplinary norms and values. Therefore, one might expect that these valued features would be routine in daily practice. Yet, a growing body of evidence suggests that this is not the case.</p>
+                    </a>
+                    <a class="col-md-4 service-box-v1" href="../pr/2015-06-25/">
+                        <table>
+                            <tr>
+                                <td><img src="../static/img/icons/cos_logo.png" width="125" align="left" style="padding-top: 20px; padding-right: 10px"></td>
+                                <td><h2 class="text-left">New Guidelines to Improve Research and Publishing Practices</h2></td>
+                            </tr>
+                        </table>
+                        <p class="text-left">June 25, 2015 | Today in SCIENCE, the Transparency and Openness Promotion (TOP) Committee has published the TOP Guidelines, a set of author guidelines that journals can adopt to enhance the transparency of the research they publish.</p>
+                    </a>
+                    <a class="col-md-4 service-box-v1" href="http://us9.campaign-archive1.com/?u=4ea2d63bcf7c2776e53a62167&id=17b9463d7b">
+                        <table>
+                            <tr>
+                                <td><img src="../static/img/icons/cos_logo.png" width="125" align="left" style="padding-top: 20px; padding-right: 10px"></td>
+                                <td><h2 class="text-left">COS: Quarterly Update</h2></td>
+                            </tr>
+                        </table>
+                        <p class="text-left">June 17, 2015 | This is a summary report of progress during our March to May 2015 quarter and highlights of our plans for June to August 2015.</p>
+                    </a>
+                    <a class="col-md-4 service-box-v1" href="http://www.nytimes.com/2015/06/16/science/retractions-coming-out-from-under-science-rug.html?_r=0">
+                        <table>
+                            <tr>
+                                <td><img src="/static/img/icons/nyt.png" width="150"></td>
+                                <td><h2 class="text-left">Science, Now Under Scrutiny Itself</h2></td>
+                            </tr>
+                        </table>
+                        <p class="text-left">June 15, 2015 | A steady increase in study retractions has alarmed journals and scientists, raising difficult questions about how research is conducted.</p>
+                    </a>
+                    <a class="col-md-4 service-box-v1" href="http://www.theverge.com/2015/6/9/8749841/science-frauds-potti-lacour">
+                        <table>
+                            <tr>
+                                <td><img src="/static/img/icons/verge.png" width="150"></td>
+                                <td><h2 class="text-left">The lessons of famous science frauds</h2></td>
+                            </tr>
+                        </table>
+                        <p class="text-left">June 9, 2015 | . . . But PubPeer and other efforts, such as the Center for Open Science and work by the University of Pennsylvania’s Uri Simonsohn and colleagues, show that free and open critiques, powered by the internet, could dramatically speed up science’s self-correction process.</p>
+                    </a>
+                    <a class="col-md-4 service-box-v1" href="http://nautil.us/issue/24/error/the-trouble-with-scientists">
+                        <table>
+                            <tr>
+                                <td><img src="/static/img/icons/nautilus.png" width="150"></td>
+                                <td><h2 class="text-left">The Trouble With Scientists</h2></td>
+                            </tr>
+                        </table>
+                        <p class="text-left">May 14, 2015 | Sometimes it seems surprising that science functions at all. In 2005, medical science was shaken by a paper with the provocative title “Why most published research findings are false.” Written by John Ioannidis, a professor of medicine at Stanford University, it didn’t actually show that any particular result was wrong. Instead, it showed that the statistics of reported positive findings was not consistent with how often one should expect to find them. </p>
+                    </a>
+                    <a class="col-md-4 service-box-v1" href="../pr/2015-04-21/">
+                        <table>
+                            <tr>
+                                <td><img src="/static/img/icons/open_trials.png" width="150"></td>
+                                <td><h2 class="text-left">Open Trials: Open Knowledge plans open, online database of clinical trials</h2></td>
+                            </tr>
+                        </table>
+                        <p class="text-left">April 21, 2015 | Open Knowledge today announced plans to develop Open Trials, an open, online database of information about the world’s clinical research trials funded by the Laura and John Arnold Foundation.</p>
+                    </a>
                      <a class="col-md-4 service-box-v1" href="http://www.share-research.org/2015/04/share-launches-beta-of-share-notify-for-informing-stakeholders-when-research-is-released/">
                         <table>
                             <tr>
                                 <td class="text-left" style="padding-bottom: 15px"><img src="../static/img/icons/share.png" width="125" align="left" style="padding-top: 20px; padding-right: 10px">
-                                <h2>SHARE Launches Beta of SHARE Notify for Informing Stakeholders When Research Is Released</h2></td>
+                                <h2>SHARE Launches Beta of SHARE Notify</h2></td>
                             </tr>
                         </table>
                         <p class="text-left"> April 14, 2015 | To make research more widely accessible, discoverable, and reusable, SHARE is launching today a public beta version of its free notification service, SHARE Notify.</p>
+                    </a>
+                    <a class="col-md-4 service-box-v1" href="http://wmra.org/post/toward-more-open-science-charlottesville">
+                        <table>
+                            <tr>
+                                <td class="text-left" style="padding-bottom: 15px"><img src="../static/img/icons/wmra.jpeg" width="125" align="left" style="padding-top: 20px; padding-right: 10px">
+                                <h2>Toward More Open Science in Charlottesville</h2></td>
+                            </tr>
+                        </table>
+                        <p class="text-left"> April 14, 2015 | In a scientific utopia, communication is open, data are accurate and results are reproducible.  That’s the kind of environment The Center for Open Science in Charlottesville is trying to provide for its users. WMRA’s Kara Lofton has the story.</p>
+                    </a>
+                      <a class="col-md-4 service-box-v1" href="http://www.biotechniques.com/BiotechniquesJournal/2015/April/THE-IMMORTAL-CHALLENGE/biotechniques-357777.html">
+                        <table>
+                            <tr>
+                                <td class="text-left" style="padding-bottom: 15px"><img src="../static/img/icons/biotechniques.jpg" width="125" align="left" style="padding-top: 20px; padding-right: 10px">
+                                <h2>THE IMMORTAL CHALLENGE</h2></td>
+                            </tr>
+                        </table>
+                        <p class="text-left"> April 2015 | Reproducibility in life science is a hot button topic at the moment. Jeffrey Perkel examines the ways in which stem cell researchers are dealing with this issue in their work. The Reproducibility Project: Cancer Biology is highlighted.</p>
+                    </a>
+                    <a class="col-md-4 service-box-v1" href="https://hbr.org/2015/03/what-to-do-when-people-draw-different-conclusions-from-the-same-data">
+                        <table>
+                            <tr>
+                                <td><img src="/static/img/icons/HBR.png" width="150"></td>
+                                <td><h2 class="text-left">What to Do When People Draw Different Conclusions From the Same Data</h2></td>
+                            </tr>
+                        </table>
+                        <p class="text-left">March 31, 2015 | “In God we trust; all others must bring data.” That famous line from statistician William Edwards Deming has become a mantra for data-driven companies, because it points to the promise of finding objective answers. But in practice, as every analyst knows, interpreting data is a messy, subjective business. </p>
                     </a>
                      <a class="col-md-4 service-box-v1" href="http://us9.campaign-archive2.com/?u=4ea2d63bcf7c2776e53a62167&id=b9a78b6985">
                         <table>

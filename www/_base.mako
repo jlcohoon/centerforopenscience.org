@@ -39,6 +39,7 @@
                     <ul class="dropdown-menu">
                         <li><a href="/involved_participate/">Participate</a></li>
                         <li><a href="/jobs/">Jobs</a></li>
+                        <li><a href="/top">TOP Guidelines</a></li>
                     </ul>
                 </li>
                 <li class="dropdown ${ 'active' if page == 'communities' else ''}">
@@ -179,7 +180,7 @@ ${self.body()}
                 <!-- BEGIN CONTACTS -->
                 <h2>Contact Us</h2>
                 <address>
-                    Center for Open Science<br />
+                    <a href="https://www.google.com/maps/place/Center+for+Open+Science/@38.0318841,-78.4841551,17z/data=!3m1!4b1!4m2!3m1!1s0x89b386251008dd1f:0x7095fdffc77c449b">Center for Open Science</a><br />
                     210 Ridge McIntire Road<br />
                     Suite 500<br />
                     Charlottesville, VA 22903-5083<br />
